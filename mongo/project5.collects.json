@@ -1,0 +1,189 @@
+[{
+  "_id": {
+    "$oid": "6369d080b32dc39c6776538b"
+  },
+  "id": 1,
+  "collect_name": "Nam 2022",
+  "path": "nam-2022",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1668864111/eltfso87mkedcr6jfxwe.jpg",
+  "description": "<p>Bộ sưu tập dành cho nam</p><p><br></p>",
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-08T03:44:00.436Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T07:17:25.092Z"
+  },
+  "__v": 0,
+  "order": 1,
+  "status": true,
+  "hashtag": "newyear2022"
+},
+{
+  "_id": {
+    "$oid": "6378d88ac17094eb6938c441"
+  },
+  "id": 2,
+  "collect_name": "Thể Thao",
+  "path": "the-thao",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1668865535/eykt3fs8cefimmeyw4ky.jpg",
+  "description": "<p>Thể thao</p>",
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-19T13:22:18.388Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-19T14:04:14.336Z"
+  },
+  "__v": 0,
+  "order": 2,
+  "status": true,
+  "hashtag": "sports"
+},
+{
+  "_id": {
+    "$oid": "6378dd3c09723e8668a7e503"
+  },
+  "status": true,
+  "active": true,
+  "id": 3,
+  "collect_name": "Phụ Nữ",
+  "path": "phu-nu",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1668865339/ohgpfx2uxrmf8ym6uk9j.jpg",
+  "description": "<p>Dành cho phụ nữ</p>",
+  "order": 3,
+  "createdAt": {
+    "$date": "2022-11-19T13:42:20.248Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-19T14:04:22.280Z"
+  },
+  "__v": 0,
+  "hashtag": "dress"
+},
+{
+  "_id": {
+    "$oid": "6378deae09723e8668a7e532"
+  },
+  "status": true,
+  "active": true,
+  "id": 4,
+  "collect_name": "Kính",
+  "path": "kinh",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1668865709/mgbui65iyu5k2thpfasv.jpg",
+  "description": "<p>Kính<br></p>",
+  "order": 4,
+  "createdAt": {
+    "$date": "2022-11-19T13:48:30.040Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-19T14:04:45.219Z"
+  },
+  "__v": 0,
+  "hashtag": "sungrasses"
+},
+{
+  "_id": {
+    "$oid": "6378decb09723e8668a7e536"
+  },
+  "status": true,
+  "active": true,
+  "id": 5,
+  "collect_name": "Mùa Đông",
+  "path": "mua-dong",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1668865738/kzjx0vegbqqdepyc8wxg.jpg",
+  "description": "<p>Mùa đông</p>",
+  "order": 5,
+  "createdAt": {
+    "$date": "2022-11-19T13:48:59.180Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-19T14:04:51.607Z"
+  },
+  "__v": 0,
+  "hashtag": "winter2022"
+},
+{
+  "_id": {
+    "$oid": "6378def909723e8668a7e53a"
+  },
+  "status": true,
+  "active": true,
+  "id": 6,
+  "collect_name": "Balo 2022",
+  "path": "balo-2022",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1668865783/ofaxq9k74xoogkkg8xsv.jpg",
+  "description": "<p>Balo 2022</p>",
+  "order": 6,
+  "createdAt": {
+    "$date": "2022-11-19T13:49:45.444Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-19T14:05:06.567Z"
+  },
+  "__v": 0,
+  "hashtag": "balo2022"
+},
+{
+  "_id": {
+    "$oid": "63ae6d8381d8b6a86089a326"
+  },
+  "status": false,
+  "active": false,
+  "id": 7,
+  "collect_name": "Sdfsdf",
+  "path": "sdfsdf",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1672375682/lb1vl2cksptrx5k8emzr.jpg",
+  "description": "<p>sdfsdf</p>",
+  "order": 0,
+  "hashtag": "sdfsdfsdf",
+  "createdAt": {
+    "$date": "2022-12-30T04:48:03.531Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-30T04:48:25.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63ae6e6181d8b6a86089a337"
+  },
+  "status": false,
+  "active": false,
+  "id": 8,
+  "collect_name": "Sdfsdfsdfsd",
+  "path": "sdfsdfsdfsd",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1672375903/ylqo7fjh9dxblxncoc2m.jpg",
+  "description": "<p>sdfsdf</p>",
+  "order": null,
+  "hashtag": "sdfsdf",
+  "createdAt": {
+    "$date": "2022-12-30T04:51:45.053Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-30T04:54:09.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63ae6efe81d8b6a86089a348"
+  },
+  "status": false,
+  "active": false,
+  "id": 9,
+  "collect_name": "Sdfsdasdfasdf",
+  "path": "sdfsdasdfasdf",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1672376061/tmdz7hfgzwb4qmmx75j9.jpg",
+  "description": "<p>sdfdfsdfsd</p>",
+  "order": null,
+  "hashtag": "asfsdf",
+  "createdAt": {
+    "$date": "2022-12-30T04:54:22.373Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-30T04:54:29.195Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "6369bb90b5563d473c059209"
+  },
+  "id": 1,
+  "sub_category_name": "Áo Sweater",
+  "path": "ao-sweater",
+  "category": 1,
+  "description": "<p>Nothing...</p>",
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-08T02:14:40.272Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-22T15:22:16.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "637ce937ba74fd96e63dc893"
+  },
+  "id": 2,
+  "sub_category_name": "Áo Polo",
+  "path": "ao-polo",
+  "category": 1,
+  "description": "<p>Nothing...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br></p>",
+  "active": false,
+  "createdAt": {
+    "$date": "2022-11-22T15:22:31.588Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T03:44:57.479Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "637ce949ba74fd96e63dc899"
+  },
+  "id": 3,
+  "sub_category_name": "Váy",
+  "path": "vay",
+  "category": 2,
+  "description": "<p>Nothing...<br></p><p><br></p>",
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-22T15:22:49.317Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-22T15:22:49.317Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "637ce955ba74fd96e63dc89f"
+  },
+  "id": 4,
+  "sub_category_name": "Chân Váy",
+  "path": "chan-vay",
+  "category": 2,
+  "description": "<p>Nothing...<br></p>",
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-22T15:23:01.925Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-22T15:23:01.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "637ce96dba74fd96e63dc8a5"
+  },
+  "id": 5,
+  "sub_category_name": "T-shirt",
+  "path": "t-shirt",
+  "category": 1,
+  "description": "<p>Nothing...<br></p>",
+  "active": false,
+  "createdAt": {
+    "$date": "2022-11-22T15:23:25.087Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T03:45:00.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "637ce988ba74fd96e63dc8ab"
+  },
+  "id": 6,
+  "sub_category_name": "Quần",
+  "path": "quan",
+  "category": 1,
+  "description": "<p>Nothing...<br></p>",
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-22T15:23:52.420Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-22T15:23:52.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6397dd728d60e38f6d2259cf"
+  },
+  "id": 7,
+  "sub_category_name": "Hoodie",
+  "path": "hoodie",
+  "category": 1,
+  "description": "<p>Nothing...</p>",
+  "active": true,
+  "createdAt": {
+    "$date": "2022-12-13T02:03:30.876Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T02:03:30.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6397ecf68d60e38f6d225bc9"
+  },
+  "id": 8,
+  "sub_category_name": "Jacket",
+  "path": "jacket",
+  "category": 1,
+  "description": "<p>no</p>",
+  "active": true,
+  "createdAt": {
+    "$date": "2022-12-13T03:09:42.172Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T03:09:42.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63ae6af881d8b6a86089a2c2"
+  },
+  "id": 9,
+  "sub_category_name": "Test",
+  "path": "test",
+  "category": 5,
+  "description": "<p>sdfsdf</p>",
+  "active": false,
+  "createdAt": {
+    "$date": "2022-12-30T04:37:12.885Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-30T04:45:27.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63ae6cef81d8b6a86089a30f"
+  },
+  "id": 10,
+  "sub_category_name": "Sdfsdf",
+  "path": "sdfsdf",
+  "category": 8,
+  "description": "<p>sdfsdf</p>",
+  "active": false,
+  "createdAt": {
+    "$date": "2022-12-30T04:45:35.836Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-30T04:46:09.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63ae6d1881d8b6a86089a31d"
+  },
+  "id": 11,
+  "sub_category_name": "Sdfsdfsf",
+  "path": "sdfsdfsf",
+  "category": 6,
+  "description": "<p>sdfsdfsdfsdf</p>",
+  "active": false,
+  "createdAt": {
+    "$date": "2022-12-30T04:46:16.165Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-30T04:46:19.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647ff22868e794ac027976bb"
+  },
+  "id": 12,
+  "sub_category_name": "Áo Polo",
+  "path": "ao-polo",
+  "category": 1,
+  "description": "<p>Nothing...</p>",
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-07T02:57:44.868Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T02:57:44.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647ff46c68e794ac0279775a"
+  },
+  "id": 13,
+  "sub_category_name": "Mũ",
+  "path": "mu",
+  "category": 8,
+  "description": "<p>Nothing...</p>",
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-07T03:07:24.837Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T03:07:24.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647ff47c68e794ac0279775f"
+  },
+  "id": 14,
+  "sub_category_name": "Ví",
+  "path": "vi",
+  "category": 8,
+  "description": "<p>Nothing...<br></p>",
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-07T03:07:40.442Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T03:07:40.442Z"
+  },
+  "__v": 0
+}]

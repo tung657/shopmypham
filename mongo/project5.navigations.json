@@ -1,0 +1,247 @@
+[{
+  "_id": {
+    "$oid": "6469120f0575d412b4afd17a"
+  },
+  "active": true,
+  "id": "1",
+  "title": "Bảng điều khiển",
+  "path": "dashboard",
+  "icon": "fa-regular fa-gauge",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-05-20T18:31:43.088Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T18:41:03.302Z"
+  },
+  "__v": 0,
+  "order": 999
+},
+{
+  "_id": {
+    "$oid": "646914186780278b44696b31"
+  },
+  "order": 99,
+  "active": true,
+  "id": "11",
+  "title": "Danh mục lớn",
+  "path": "categories",
+  "icon": "fa-duotone fa-bookmark",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-05-20T18:40:24.381Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T18:50:08.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646914826780278b44696b54"
+  },
+  "order": 98,
+  "active": true,
+  "id": "111",
+  "title": "Danh mục nhỏ",
+  "path": "category-subs",
+  "icon": "fa-light fa-bookmark",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-05-20T18:42:10.164Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T18:42:10.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646916806780278b44696b89"
+  },
+  "order": 97,
+  "active": true,
+  "id": "1111",
+  "title": "Bộ sưu tập",
+  "path": "collections",
+  "icon": "fa-regular fa-square-kanban",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-05-20T18:50:40.776Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T18:51:13.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646a58ef791fa9e8e23f0647"
+  },
+  "order": 96,
+  "active": true,
+  "id": "11111",
+  "title": "Sản phẩm",
+  "path": "products",
+  "icon": "fa-brands fa-product-hunt",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-05-21T17:46:23.677Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T17:46:23.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646a5905791fa9e8e23f064a"
+  },
+  "order": 95,
+  "active": true,
+  "id": "111111",
+  "title": "Giảm giá",
+  "path": "discounts",
+  "icon": "fa-regular fa-badge-percent",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-05-21T17:46:45.410Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T17:46:45.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646a5928791fa9e8e23f064d"
+  },
+  "order": 94,
+  "active": true,
+  "id": "1111111",
+  "title": "Đơn hàng",
+  "path": "orders",
+  "icon": "fa-regular fa-cart-shopping",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-05-21T17:47:20.215Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T17:47:20.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646a5941791fa9e8e23f0650"
+  },
+  "order": 93,
+  "active": true,
+  "id": "11111111",
+  "title": "Hóa đơn nhập",
+  "path": "invoices",
+  "icon": "fa-light fa-file-invoice",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-05-21T17:47:45.068Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T17:47:45.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646a595b791fa9e8e23f0653"
+  },
+  "order": 92,
+  "active": true,
+  "id": "111111111",
+  "title": "Nhà cung cấp",
+  "path": "suppliers",
+  "icon": "fa-duotone fa-warehouse-full",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-05-21T17:48:11.731Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T17:48:11.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646a5970791fa9e8e23f0656"
+  },
+  "order": 91,
+  "active": true,
+  "id": "1111111111",
+  "title": "Thương hiệu",
+  "path": "brands",
+  "icon": "fa-solid fa-circle-star",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-05-21T17:48:32.738Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T17:48:32.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646a5983791fa9e8e23f0659"
+  },
+  "order": 90,
+  "active": true,
+  "id": "11111111111",
+  "title": "Khách hàng",
+  "path": "customers",
+  "icon": "fa-regular fa-users",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-05-21T17:48:51.717Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T17:48:51.717Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646a5998791fa9e8e23f065c"
+  },
+  "order": 89,
+  "active": true,
+  "id": "111111111111",
+  "title": "Nhân viên",
+  "path": "staffs",
+  "icon": "fa-regular fa-users-gear",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-05-21T17:49:12.389Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T17:49:12.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646a59b0791fa9e8e23f065f"
+  },
+  "order": 88,
+  "active": true,
+  "id": "1111111111111",
+  "title": "Tài khoản",
+  "path": "accounts",
+  "icon": "fa-regular fa-user-lock",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-05-21T17:49:36.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T17:49:36.893Z"
+  },
+  "__v": 0
+}]

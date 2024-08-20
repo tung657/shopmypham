@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "63997fe6b0cd077625f9d12e"
+  },
+  "id": 1,
+  "discount_name": "",
+  "discount_percent": 34,
+  "start_date": {
+    "$date": "2022-12-02T00:00:00.000Z"
+  },
+  "end_date": null,
+  "active": true,
+  "createdAt": {
+    "$date": "2022-12-14T07:48:54.218Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-14T07:48:54.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63998080b0cd077625f9d13c"
+  },
+  "id": 2,
+  "discount_name": "",
+  "discount_percent": 50,
+  "start_date": {
+    "$date": "2022-12-14T00:00:00.000Z"
+  },
+  "end_date": null,
+  "active": true,
+  "createdAt": {
+    "$date": "2022-12-14T07:51:28.919Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-14T07:51:28.919Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63998089b0cd077625f9d140"
+  },
+  "id": 3,
+  "discount_name": "",
+  "discount_percent": 3,
+  "start_date": {
+    "$date": "2022-12-14T00:00:00.000Z"
+  },
+  "end_date": null,
+  "active": true,
+  "createdAt": {
+    "$date": "2022-12-14T07:51:37.732Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-14T07:51:37.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63ae708181d8b6a86089a3b5"
+  },
+  "id": 4,
+  "discount_name": "",
+  "discount_percent": 43,
+  "start_date": {
+    "$date": "2022-12-30T00:00:00.000Z"
+  },
+  "end_date": null,
+  "active": false,
+  "createdAt": {
+    "$date": "2022-12-30T05:00:49.491Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-30T05:00:57.592Z"
+  },
+  "__v": 0
+}]

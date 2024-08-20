@@ -1,0 +1,1521 @@
+[{
+  "_id": {
+    "$oid": "6374b09def600d834e24622e"
+  },
+  "id": 1,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 1,
+  "supplier": 1,
+  "paid": true,
+  "total": "394,500,000",
+  "details": [
+    {
+      "color": "Persian Blue",
+      "hex": "#1C39BB",
+      "invoice_price": "500,000",
+      "sell_price": "600,000",
+      "list_sizes": [
+        {
+          "size": "XS",
+          "quantity": "789"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1668586030/jqee6zhbwxaylwhcj2t1.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1668586033/e3pe5yjdveb4zpzhbet1.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1668586034/blzlmzlvryyljsj1mlnm.jpg"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-16T09:42:53.868Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-16T09:42:53.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6375ecc572a4e3a078e428be"
+  },
+  "id": 2,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 1,
+  "supplier": 1,
+  "paid": false,
+  "total": "394,500,000",
+  "details": [
+    {
+      "color": "Persian Blue",
+      "hex": "#1C39BB",
+      "invoice_price": "500,000",
+      "sell_price": "600,000",
+      "list_sizes": [
+        {
+          "size": "XS",
+          "quantity": "789"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1668586030/jqee6zhbwxaylwhcj2t1.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1668586033/e3pe5yjdveb4zpzhbet1.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1668586034/blzlmzlvryyljsj1mlnm.jpg"
+      ],
+      "status": false
+    }
+  ],
+  "active": false,
+  "createdAt": {
+    "$date": "2022-11-17T08:11:49.590Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-17T08:12:00.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6375f45c6f8bedfe4c916deb"
+  },
+  "id": 3,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 1,
+  "supplier": 1,
+  "paid": false,
+  "total": "31,710,000",
+  "details": [
+    {
+      "color": "Malachite",
+      "hex": "#0BDA51",
+      "invoice_price": "70,000",
+      "sell_price": "84,000",
+      "list_sizes": [
+        {
+          "size": "XL",
+          "quantity": "453"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1668674492/dj34vgvkw2ybt0o6nooa.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1668674494/b79gnhhs5gnt3sblqsu5.png"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-17T08:44:12.791Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-17T09:24:48.105Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6378f38c221373fda80f79c0"
+  },
+  "id": 4,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 3,
+  "supplier": 1,
+  "paid": true,
+  "total": "2,500,000",
+  "details": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "250,000",
+      "sell_price": "300,000",
+      "list_sizes": [
+        {
+          "size": "L",
+          "quantity": "10"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1668871043/xqscsv9ctyuauy1dd2ua.png"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-19T15:17:32.339Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-19T15:17:32.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6378f424221373fda80f79ee"
+  },
+  "id": 5,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 3,
+  "supplier": 1,
+  "paid": true,
+  "total": "2,500,000",
+  "details": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "250,000",
+      "sell_price": "300,000",
+      "list_sizes": [
+        {
+          "size": "L",
+          "quantity": "10"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1668871043/xqscsv9ctyuauy1dd2ua.png"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-19T15:20:04.513Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-19T15:20:04.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6378f4553d9ef2fa81be732c"
+  },
+  "id": 6,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 3,
+  "supplier": 1,
+  "paid": true,
+  "total": "2,500,000",
+  "details": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "250,000",
+      "sell_price": "300,000",
+      "list_sizes": [
+        {
+          "size": "L",
+          "quantity": "10"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1668871043/xqscsv9ctyuauy1dd2ua.png"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-19T15:20:53.540Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-30T05:08:04.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6378f4b73d9ef2fa81be733a"
+  },
+  "id": 7,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 3,
+  "supplier": 1,
+  "paid": true,
+  "total": "2,500,000",
+  "details": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "250,000",
+      "sell_price": "300,000",
+      "list_sizes": [
+        {
+          "size": "L",
+          "quantity": "10"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1668871043/xqscsv9ctyuauy1dd2ua.png"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-19T15:22:31.220Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-19T15:22:31.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "637cffca2fcc28953746b195"
+  },
+  "id": 8,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 4,
+  "supplier": 1,
+  "paid": true,
+  "total": "600,000,000",
+  "details": [
+    {
+      "color": "White",
+      "hex": "#FFFFFF",
+      "invoice_price": "5,000,000",
+      "sell_price": "6,000,000",
+      "list_sizes": [
+        {
+          "size": "S",
+          "quantity": "5"
+        },
+        {
+          "size": "M",
+          "quantity": "60"
+        },
+        {
+          "size": "XL",
+          "quantity": "55"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1669136321/jx3ovb6bkyssrfbhe3wn.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1669136323/n6gbpoo7otkmrb2gfrku.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1669136321/qyhqdyapxhgbyxt0avtl.jpg"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-22T16:58:50.883Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-22T16:58:50.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6397e7968d60e38f6d225a5f"
+  },
+  "id": 9,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 1,
+  "supplier": 1,
+  "paid": true,
+  "total": "765,000,000",
+  "details": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "450,000",
+      "sell_price": "540,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "500"
+        },
+        {
+          "size": "L",
+          "quantity": "200"
+        },
+        {
+          "size": "XL",
+          "quantity": "1000"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670898445/knhodwos5kyu2vt13xsl.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670898445/xub4idgtqhhcs0vnxj4j.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670898445/td1zwjfumycnsd00khk8.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670898445/oupc0m3uwjaiddan3cdd.jpg"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-12-13T02:46:46.504Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T02:46:46.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6397e8408d60e38f6d225abf"
+  },
+  "id": 10,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 3,
+  "supplier": 1,
+  "paid": true,
+  "total": "274,500,000",
+  "details": [
+    {
+      "color": "Gallery",
+      "hex": "#EFEFEF",
+      "invoice_price": "450,000",
+      "sell_price": "540,000",
+      "list_sizes": [
+        {
+          "size": "L",
+          "quantity": "10"
+        },
+        {
+          "size": "M",
+          "quantity": "500"
+        },
+        {
+          "size": "XL",
+          "quantity": "100"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670899769/orolc9itkubwvpqn58ej.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670899769/kejyzstu8xgwpdggujuh.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670899770/kolhvfdcyuspjthsbpf1.jpg"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-12-13T02:49:36.910Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T02:49:36.910Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6397e9ec8d60e38f6d225b56"
+  },
+  "id": 11,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 6,
+  "supplier": 1,
+  "paid": true,
+  "total": "246,000,000",
+  "details": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "400,000",
+      "sell_price": "480,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "50"
+        },
+        {
+          "size": "L",
+          "quantity": "505"
+        },
+        {
+          "size": "XL",
+          "quantity": "60"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900197/scovlfd8jaecrzdropaz.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900197/lz58ajfj3xkn2359pujk.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900197/kgxz9s5gupkaowhshskf.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900198/ym5128g3tefsd3keapd2.jpg"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-12-13T02:56:44.524Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T02:56:44.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6397ebf08d60e38f6d225b8c"
+  },
+  "id": 12,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 7,
+  "supplier": 1,
+  "paid": true,
+  "total": "216,000,000",
+  "details": [
+    {
+      "color": "Grey",
+      "hex": "#ACACAC",
+      "invoice_price": "450,000",
+      "sell_price": "540,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "50"
+        },
+        {
+          "size": "L",
+          "quantity": "50"
+        },
+        {
+          "size": "XL",
+          "quantity": "50"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900593/grlbcge0ecwh5lqjdgnx.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900593/ezilt9fnhejaccfmveck.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900593/kzd5fyrd879sj6j82lri.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900593/shsmjzsy000iltx7wrri.jpg"
+      ],
+      "status": false
+    },
+    {
+      "color": "Mocha",
+      "hex": "#826F65",
+      "invoice_price": "450,000",
+      "sell_price": "540,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "50"
+        },
+        {
+          "size": "L",
+          "quantity": "50"
+        },
+        {
+          "size": "XL",
+          "quantity": "50"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900648/pzu8vg9ca1l2tacvh2yw.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900648/ljlcrhtbbuvmwv00vkb8.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900648/hmrr3qop7dwzjhnd08m2.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900648/nkjqpn8yowogpvkhzyek.jpg"
+      ],
+      "status": false
+    },
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "450,000",
+      "sell_price": "540,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "60"
+        },
+        {
+          "size": "L",
+          "quantity": "60"
+        },
+        {
+          "size": "XL",
+          "quantity": "60"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900713/icq4kieba8gnkznbirsx.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900713/lgee34eco9k2wg35rdkl.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900713/eu9jghxd1e7vcc7wdvjr.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900713/gzk7rzfq7f8j3h5apasu.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900714/dg1yc9yaqcxhhras2wvb.webp"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-12-13T03:05:20.483Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T03:05:20.483Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6397ee008d60e38f6d225bf1"
+  },
+  "id": 13,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 8,
+  "supplier": 1,
+  "paid": true,
+  "total": "89,400,000",
+  "details": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "330,000",
+      "sell_price": "396,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "60"
+        },
+        {
+          "size": "L",
+          "quantity": "60"
+        },
+        {
+          "size": "XL",
+          "quantity": "60"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901194/z0jujfdij3yhdcigp2jb.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901194/usjnzxygs5xxzqnpc1jj.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901194/bqoacq8gbutjqe8z8nfd.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901194/i1uqub0ueokqqm1r61jl.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901194/p496kiefddjjufvqaszz.jpg"
+      ],
+      "status": false
+    },
+    {
+      "color": "Grey",
+      "hex": "#D27D46",
+      "invoice_price": "250,000",
+      "sell_price": "300,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "40"
+        },
+        {
+          "size": "L",
+          "quantity": "40"
+        },
+        {
+          "size": "XL",
+          "quantity": "40"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901234/y2viq5jm20l8qyczotzr.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901235/kopx24oltlwriscx6edw.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901235/wyonf1543oti0cpi82to.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901235/fmqykjzbh1jxoflkjasu.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901235/q7yseic1htgdfg75xoer.jpg"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-12-13T03:14:08.077Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T03:14:08.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6397ef6e8d60e38f6d225c3a"
+  },
+  "id": 14,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 9,
+  "supplier": 1,
+  "paid": true,
+  "total": "332,400,000",
+  "details": [
+    {
+      "color": "Mountain Meadow",
+      "hex": "#1AB385",
+      "invoice_price": "200,000",
+      "sell_price": "240,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "49"
+        },
+        {
+          "size": "L",
+          "quantity": "49"
+        },
+        {
+          "size": "XL",
+          "quantity": "49"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901534/boalhl2egmfikn7ndaf8.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901534/dformifuuqam2t2lvlin.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901535/lpgdnqv8grbgye9anibk.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901536/lj3ecrnrai4qodhq4g2i.jpg"
+      ],
+      "status": false
+    },
+    {
+      "color": "Grey",
+      "hex": "#5D4C51",
+      "invoice_price": "190,000",
+      "sell_price": "228,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "500"
+        },
+        {
+          "size": "L",
+          "quantity": "500"
+        },
+        {
+          "size": "XL",
+          "quantity": "500"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901575/dfrnoll1k4ejmogs5mse.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901575/zgsgxwlycgfpygmbazf6.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901576/kd7thbeu6pk66j9hmcjw.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901576/vzsznmiczejhrdtcvbyc.jpg"
+      ],
+      "status": false
+    },
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "150,000",
+      "sell_price": "180,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "60"
+        },
+        {
+          "size": "XL",
+          "quantity": "60"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901607/fo6lwa6vgovh5mjqon5w.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901607/eulv6q2lmpx6ug8x1opf.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901608/kteircn0kcqmhjjgvpjd.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901608/xptzynfzxmxsp6lrawfc.jpg"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-12-13T03:20:14.590Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T03:20:14.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6397f61a8d60e38f6d225d4d"
+  },
+  "id": 15,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 10,
+  "supplier": 1,
+  "paid": true,
+  "total": "9,000,000",
+  "details": [
+    {
+      "color": "Navy",
+      "hex": "#000080",
+      "invoice_price": "180,000",
+      "sell_price": "216,000",
+      "list_sizes": [
+        {
+          "size": "L",
+          "quantity": "50"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670903292/filk7regdoupmlo0syjl.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670903292/lyevmcsn6q9a1rh1wv1u.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670903292/hp4dlyudbsrtl4wab6ml.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670903292/bjduagokq7ewf8hzrvh1.jpg"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-12-13T03:48:42.017Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T03:48:42.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6397fa558d60e38f6d225dea"
+  },
+  "id": 16,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 11,
+  "supplier": 1,
+  "paid": true,
+  "total": "6,000,000",
+  "details": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "100,000",
+      "sell_price": "120,000",
+      "list_sizes": [
+        {
+          "size": "L",
+          "quantity": "60"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670904376/gwqkqbmllu0y8oisoboe.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670904375/bpjw31fbifhctasawzj0.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670904376/upctqqiuvvip3vtpzddb.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670904377/px8ja0pgpofngeh64zhz.jpg"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-12-13T04:06:45.702Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T04:06:45.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "639866408d60e38f6d225f0d"
+  },
+  "id": 17,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 12,
+  "supplier": 1,
+  "paid": true,
+  "total": "70,500,000",
+  "details": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "250,000",
+      "sell_price": "300,000",
+      "list_sizes": [
+        {
+          "size": "L",
+          "quantity": "40"
+        },
+        {
+          "size": "M",
+          "quantity": "40"
+        },
+        {
+          "size": "XL",
+          "quantity": "40"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670931914/ygpwtk1gbgaqpklqm0nd.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670931914/ml8xizuhqgimstgxvliw.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670931914/jght82qwsmxpepxdsmyc.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670931913/qm4vifuwao9qtb5irmka.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670931908/lj6ajkq0sunx5elcyds7.jpg"
+      ],
+      "status": false
+    },
+    {
+      "color": "Grey",
+      "hex": "#ECA927",
+      "invoice_price": "270,000",
+      "sell_price": "324,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "50"
+        },
+        {
+          "size": "L",
+          "quantity": "50"
+        },
+        {
+          "size": "XL",
+          "quantity": "50"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670932002/bu2zcqzbggxpmtbr9dqv.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670932010/wbizsthbxtzrpmvwe3t5.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670932003/nc1nekc93m3xzb0qwl7m.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670932003/w2mdh9rgcpsmjmogveza.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670932004/oj2csq8fkknuhlgwobcp.jpg"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-12-13T11:47:12.054Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T11:47:12.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6398a4968d60e38f6d22605a"
+  },
+  "id": 18,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 10,
+  "supplier": 1,
+  "paid": true,
+  "total": "61,740,000",
+  "details": [
+    {
+      "color": "Navy",
+      "hex": "#000080",
+      "invoice_price": "180,000",
+      "sell_price": "216,000",
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670903292/filk7regdoupmlo0syjl.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670903292/lyevmcsn6q9a1rh1wv1u.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670903292/hp4dlyudbsrtl4wab6ml.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670903292/bjduagokq7ewf8hzrvh1.jpg"
+      ],
+      "status": false,
+      "has_size": false,
+      "quantityNoSize": "343"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-12-13T16:13:10.290Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T16:13:10.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6398a4f18d60e38f6d22609c"
+  },
+  "id": 19,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 11,
+  "supplier": 1,
+  "paid": true,
+  "total": "65,400,000",
+  "details": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "100,000",
+      "sell_price": "120,000",
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670904376/gwqkqbmllu0y8oisoboe.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670904375/bpjw31fbifhctasawzj0.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670904376/upctqqiuvvip3vtpzddb.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670904377/px8ja0pgpofngeh64zhz.jpg"
+      ],
+      "status": false,
+      "has_size": false,
+      "quantityNoSize": "654"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-12-13T16:14:41.998Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T16:14:41.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64059a91c913d8f09e92ce05"
+  },
+  "id": 20,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 14,
+  "supplier": 1,
+  "paid": true,
+  "total": "4,500,000",
+  "details": [
+    {
+      "color": "Thunderbird",
+      "hex": "#C02B18",
+      "invoice_price": "500,000",
+      "sell_price": "600,000",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "S",
+          "quantity": "3"
+        },
+        {
+          "size": "M",
+          "quantity": "6"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1678088812/oyohqpuliuwl61gdd8nm.jpg"
+      ],
+      "status": false
+    }
+  ],
+  "active": false,
+  "createdAt": {
+    "$date": "2023-03-06T07:47:29.845Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-08T07:41:19.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64059b243e1be7d90f145263"
+  },
+  "id": 21,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 14,
+  "supplier": 1,
+  "paid": true,
+  "total": "1,200,000",
+  "details": [
+    {
+      "color": "Cerulean Blue",
+      "hex": "#2A52BE",
+      "invoice_price": "400,000",
+      "sell_price": "480,000",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "2XL",
+          "quantity": "3"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1678088926/zgiucthy9336lnahl3pv.jpg"
+      ],
+      "status": false
+    }
+  ],
+  "active": false,
+  "createdAt": {
+    "$date": "2023-03-06T07:49:56.851Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-08T07:42:45.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64083b1dfa8b9b4e58809bee"
+  },
+  "id": 22,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 1,
+  "supplier": 1,
+  "paid": true,
+  "total": "1,530,000",
+  "details": [
+    {
+      "color": "Watercourse",
+      "hex": "#056F57",
+      "invoice_price": "90,000",
+      "sell_price": "108,000",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "S",
+          "quantity": "8"
+        },
+        {
+          "size": "XL",
+          "quantity": "9"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1678260864/rq7qvbyxnwt0yjp6xgix.jpg"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2023-03-08T07:37:01.233Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-08T07:43:47.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643e69bdc8969596052ef564"
+  },
+  "id": 23,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 1,
+  "supplier": 1,
+  "paid": true,
+  "total": "1,530,000",
+  "details": [
+    {
+      "color": "Watercourse",
+      "hex": "#056F57",
+      "invoice_price": "90,000",
+      "sell_price": "108,000",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "S",
+          "quantity": "8"
+        },
+        {
+          "size": "XL",
+          "quantity": "9"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1678329751/em95yhkbbhree5wcyp4k.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1678329751/j9fzp8vzrgtskn87r5vu.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1678329750/cresyrwjrczrjdwg7sml.jpg"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2023-04-18T09:58:21.402Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-18T09:58:21.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f5e8efd6f46fd1d8da758"
+  },
+  "id": 24,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 1,
+  "supplier": 1,
+  "paid": false,
+  "total": "26,875,048",
+  "details": [
+    {
+      "color": "Watercourse",
+      "hex": "#056F57",
+      "invoice_price": "90,000",
+      "sell_price": "108,000",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "S",
+          "quantity": "8"
+        },
+        {
+          "size": "XL",
+          "quantity": "9"
+        },
+        {
+          "size": "M",
+          "quantity": "4"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1678329751/em95yhkbbhree5wcyp4k.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1678329751/j9fzp8vzrgtskn87r5vu.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1678329750/cresyrwjrczrjdwg7sml.jpg"
+      ],
+      "status": false
+    },
+    {
+      "color": "Copper Rust",
+      "hex": "#944747",
+      "invoice_price": "3,123,131",
+      "sell_price": "3,747,757.2",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "L",
+          "quantity": "3"
+        },
+        {
+          "size": "3XL",
+          "quantity": "5"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1681811932/ij0jqdozzxslcmqmwmww.jpg"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2023-04-19T03:22:54.616Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T03:23:31.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647ff32068e794ac027976db"
+  },
+  "id": 25,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 15,
+  "supplier": 1,
+  "paid": true,
+  "total": "358,720,000",
+  "details": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "380,000",
+      "sell_price": "400,000",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "L",
+          "quantity": "444"
+        },
+        {
+          "size": "XL",
+          "quantity": "500"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686106900/yq57ifazvlkp264ys6se.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686106900/m1mllftw64ecp6fjzfhr.webp"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-07T03:01:52.263Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T03:01:52.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647ff3b068e794ac0279770e"
+  },
+  "id": 26,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 16,
+  "supplier": 3,
+  "paid": true,
+  "total": "239,400,000",
+  "details": [
+    {
+      "color": "White",
+      "hex": "#FFFFFF",
+      "invoice_price": "266,000",
+      "sell_price": "319,200",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "300"
+        },
+        {
+          "size": "L",
+          "quantity": "300"
+        },
+        {
+          "size": "XL",
+          "quantity": "300"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107051/yljcs1tvyejq7rfxd6ko.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107051/yrl2dov7w43p5dhaycj8.webp"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-07T03:04:16.042Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T03:04:16.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647ff41868e794ac02797730"
+  },
+  "id": 27,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 17,
+  "supplier": 2,
+  "paid": true,
+  "total": "466,200,000",
+  "details": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "350,000",
+      "sell_price": "420,000",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "444"
+        },
+        {
+          "size": "L",
+          "quantity": "444"
+        },
+        {
+          "size": "XL",
+          "quantity": "444"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107153/s2vv5sqhg68suqa12sq8.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107153/fimojemretx76xsgfs85.webp"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-07T03:06:00.962Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T03:06:00.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647ff52d68e794ac0279778d"
+  },
+  "id": 28,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 18,
+  "supplier": 3,
+  "paid": true,
+  "total": "90,000,000",
+  "details": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "150,000",
+      "sell_price": "180,000",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "XS",
+          "quantity": "600"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107429/kaqftqsjcztp5d9ijdxo.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107429/xzxmlv6zh2zbjkoxv12q.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107429/ayo87dqth6feqvovtsjv.webp"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-07T03:10:37.354Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T03:10:37.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647ff61e68e794ac027977cb"
+  },
+  "id": 29,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 19,
+  "supplier": 1,
+  "paid": true,
+  "total": "452,100,000",
+  "details": [
+    {
+      "color": "Cerulean",
+      "hex": "#02A4D3",
+      "invoice_price": "550,000",
+      "sell_price": "660,000",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "411"
+        },
+        {
+          "size": "L",
+          "quantity": "411"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107672/d5rifct3hm8gbmlf4glm.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107672/qk2j5xs0dezkgmjvdvzu.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107672/utq8z26fpzvsawvwbnzm.webp"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-07T03:14:38.647Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T03:14:38.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647ff7f368e794ac0279780c"
+  },
+  "id": 30,
+  "staff": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "product": 20,
+  "supplier": 3,
+  "paid": true,
+  "total": "60,500,000",
+  "details": [
+    {
+      "color": "Curious Blue",
+      "hex": "#2596D1",
+      "invoice_price": "550,000",
+      "sell_price": "660,000",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "55"
+        },
+        {
+          "size": "L",
+          "quantity": "55"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686108139/mdqw98az9fyd07rpmyxf.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686108141/da38pllwqkasjrew1xzg.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686108140/mhswjmokrijebh3fnczw.webp"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-07T03:22:27.353Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T03:22:27.353Z"
+  },
+  "__v": 0
+}]

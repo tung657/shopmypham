@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "63690e33b07aad7c58512589"
+  },
+  "id": 1,
+  "category_name": "Nam",
+  "description": "<p>Đồ cho nam giới</p>",
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-07T13:54:59.234Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-19T12:45:57.784Z"
+  },
+  "__v": 0,
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1668861956/fvcdhlrbhclt08nu45vy.jpg",
+  "path": "nam"
+},
+{
+  "_id": {
+    "$oid": "63690f2fb07aad7c585125d1"
+  },
+  "id": 2,
+  "category_name": "Nữ",
+  "description": "<p>Đồ dành cho nữ giới</p>",
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-07T13:59:11.761Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-19T12:46:48.434Z"
+  },
+  "__v": 0,
+  "path": "nu",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1668862007/bqcgex2ocbnqyhviripd.jpg"
+},
+{
+  "_id": {
+    "$oid": "6378d08df9e4efe79d533bc3"
+  },
+  "active": false,
+  "id": 3,
+  "category_name": "Kính Mát",
+  "description": "<p>Kính dâm, kính mát</p>",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1668862093/w4kmllumgdxpnag3hipz.jpg",
+  "path": "kinh-mat",
+  "createdAt": {
+    "$date": "2022-11-19T12:48:13.961Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T03:23:18.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6378d0b1f9e4efe79d533bc7"
+  },
+  "active": true,
+  "id": 4,
+  "category_name": "Giày",
+  "description": "<p>Sneakers</p>",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1668862128/sqfhtawatvyfe1w7om6r.jpg",
+  "path": "giay",
+  "createdAt": {
+    "$date": "2022-11-19T12:48:49.055Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T03:33:04.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6378d0d0f9e4efe79d533bcb"
+  },
+  "active": true,
+  "id": 5,
+  "category_name": "Đồng Hồ",
+  "description": "<p>Đồng hồ</p>",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1668862160/armyhrsbl0qyansqi8h0.jpg",
+  "path": "dong-ho",
+  "createdAt": {
+    "$date": "2022-11-19T12:49:20.890Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-19T12:49:20.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6378d103f9e4efe79d533bcf"
+  },
+  "active": true,
+  "id": 6,
+  "category_name": "Balo",
+  "description": "<p>Balo</p>",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1668862211/pzapwayuujfdmpkpcrb5.jpg",
+  "path": "balo",
+  "createdAt": {
+    "$date": "2022-11-19T12:50:11.934Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-19T12:50:11.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6378d11bf9e4efe79d533bd3"
+  },
+  "active": true,
+  "id": 7,
+  "category_name": "Thể Thao",
+  "description": "<p>Thể thao</p>",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1668862234/lfsgbrsfljciyamzxsji.jpg",
+  "path": "the-thao",
+  "createdAt": {
+    "$date": "2022-11-19T12:50:35.235Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-19T12:50:35.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6397f8e58d60e38f6d225d8c"
+  },
+  "active": true,
+  "id": 8,
+  "category_name": "Phụ Kiện",
+  "description": "<p>Nothing...</p>",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670904120/jdbacpnob3zssnnbsizt.jpg",
+  "path": "phu-kien",
+  "createdAt": {
+    "$date": "2022-12-13T04:00:37.277Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T03:06:56.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63ae61e2122459b9c783202d"
+  },
+  "active": false,
+  "id": 9,
+  "category_name": "Test Csdfsdf",
+  "description": "<p>Test description</p>",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1672372705/upocmwwqhdhpsy49corl.jpg",
+  "path": "test-csdfsdf",
+  "createdAt": {
+    "$date": "2022-12-30T03:58:26.625Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-30T04:02:33.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63ae62f6122459b9c7832056"
+  },
+  "active": false,
+  "id": 10,
+  "category_name": "Testtt",
+  "description": "<p>sdfsdfsdfsdf</p>",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1672372981/ktvccissintg5ktahie0.jpg",
+  "path": "testtt",
+  "createdAt": {
+    "$date": "2022-12-30T04:03:02.145Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-30T04:03:08.833Z"
+  },
+  "__v": 0
+}]

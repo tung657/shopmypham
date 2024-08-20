@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6369c31c8916d3e0bbd85d7b"
+  },
+  "id": 1,
+  "supplier_name": "May Mặc Vĩnh Tài - Công Ty Tnhh Sản Xuất & Thương Mại Vĩnh Tài",
+  "phone": "0903373811",
+  "address": "351/7 Lê Văn Sỹ, P. 13, Q. 3, Tp. Hồ Chí Minh (TPHCM) , Việt Nam",
+  "email": "kinhdoanh@vinhtai.vn",
+  "description": "<p><br></p>",
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-08T02:46:52.578Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T01:31:48.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647fe1c4c6f936600da8bcd0"
+  },
+  "id": 2,
+  "supplier_name": "May Mặc Trường Nam - Công Ty Tnhh Sản Xuất Tmdv Trường Nam",
+  "phone": "0978550644",
+  "address": "63/12 Đỗ Nhuận, P. Sơn Kỳ, Q. Tân Phú, Tp. Hồ Chí Minh (TPHCM), Việt Nam",
+  "email": "kinhdoanh@truongnam.vn",
+  "description": "<p>&nbsp;</p>",
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-07T01:47:48.576Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T01:47:48.576Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647fe1f5c6f936600da8bcd3"
+  },
+  "id": 3,
+  "supplier_name": "May Mặc Thành Đạt - Công Ty Tnhh Thương Mại - May Mặc Thành Đạt",
+  "phone": "0961783079",
+  "address": "97 Nguyễn Thị Tú, P. Bình Hưng Hòa B, Q. Bình Tân, Tp. Hồ Chí Minh (TPHCM), Việt Nam",
+  "email": "info@thanhdat.vn",
+  "description": "<p>&nbsp;</p>",
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-07T01:48:37.273Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T01:48:37.273Z"
+  },
+  "__v": 0
+}]

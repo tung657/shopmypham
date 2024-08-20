@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "63690887b07aad7c5851255d"
+  },
+  "id": 1,
+  "brand_name": "Thời Trang Nem Fashion",
+  "path": "thoi-trang-nem-fashion",
+  "description": "<p>Thương hiệu thời trang nữ ở Việt Nam không thể không kể tới NEM. Đây là thương hiệu thời trang nữ cao cấp được chị em công sở yêu thích vì&nbsp;<strong>thiết kế thanh lịch, quyến rũ và tinh tế.</strong></p>",
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-07T13:30:47.842Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T01:40:06.816Z"
+  },
+  "__v": 0,
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1686102005/bryhxpli4so2hw6rrx2p.jpg"
+},
+{
+  "_id": {
+    "$oid": "647fe02bc6f936600da8bcc7"
+  },
+  "active": true,
+  "id": 2,
+  "brand_name": "Thời Trang Chic-land",
+  "path": "thoi-trang-chic-land",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1686102058/bbsubh5olzjq3ou0kj5o.jpg",
+  "description": "<p style=\"text-align: justify\">Chic – Land không chỉ là thương hiệu nổi tiếng nhờ&nbsp;<strong>thiết kế công sở nữ cao cấp</strong>&nbsp;mà còn được biết đến nhờ chuỗi cửa hàng thời trang xa hoa bậc nhất.</p>",
+  "createdAt": {
+    "$date": "2023-06-07T01:40:59.382Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T01:40:59.382Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647fe055c6f936600da8bcca"
+  },
+  "active": true,
+  "id": 3,
+  "brand_name": "Thời Trang Seven Am",
+  "path": "thoi-trang-seven-am",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1686102100/oh6qtlooknwhhkrjjl1t.jpg",
+  "description": "<p>Seven AM là hãng thời trang được đánh giá cao về<strong>&nbsp;chất liệu bền, đẹp và tính ứng dụng cao, phù hợp với nhiều đối tượng</strong>. Các mẫu mới cũng được trình làng liên tục theo nhu cầu, sở thích của người dùng.<br></p>",
+  "createdAt": {
+    "$date": "2023-06-07T01:41:41.764Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T01:41:41.764Z"
+  },
+  "__v": 0
+}]

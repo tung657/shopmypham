@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "637e5229fcd78c676f1b0901"
+  },
+  "role": 2,
+  "verified": true,
+  "active": true,
+  "id": 2,
+  "username": "minhdra1",
+  "password": "$2a$10$jyVEZRsWi0IqAY1TUkt7lOuQvxdNsKXAMqyBMHyhJ1Vb60MErnITC",
+  "email": "le.minh011100@gmail.com",
+  "createdAt": {
+    "$date": "2022-11-23T17:02:33.504Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-12T16:11:19.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6368acc50aace331faf6a15d"
+  },
+  "role": 0,
+  "verified": false,
+  "active": true,
+  "id": 1,
+  "username": "minhdra",
+  "password": "$2a$10$pjfJu9HTKmFlnC2d8REh2eTz9plrkBmuFvRCaWHE9b2Ynk8tCGBOy",
+  "email": "minhdra011100@gmail.com",
+  "createdAt": {
+    "$date": "2022-11-23T13:54:21.688Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T09:32:41.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63a1cd4b508748c95cde0b46"
+  },
+  "role": 2,
+  "verified": true,
+  "active": false,
+  "id": 3,
+  "username": "leminh00",
+  "password": "$2a$10$pTXd5mh5wTUGaQVm6PgvAOkDV4Uxo4ukZirJI45u9GaUq0BBieUYa",
+  "email": "leminhminhd@gmail.com",
+  "createdAt": {
+    "$date": "2022-12-20T14:57:15.849Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T01:58:42.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63a2ced1b4effcb7e97c3ef8"
+  },
+  "role": 2,
+  "verified": true,
+  "active": false,
+  "id": 4,
+  "username": "leminh000",
+  "password": "$2a$10$ZVOmlZKA4dNXYkjCWJHXPex6bjdOQr6DWjJfecsnwHGt0tcHnj5j2",
+  "email": "leminhminhdd@gmail.com",
+  "createdAt": {
+    "$date": "2022-12-21T09:16:01.290Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T01:48:49.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63ae737581d8b6a86089a41e"
+  },
+  "role": 2,
+  "verified": false,
+  "active": false,
+  "id": 5,
+  "username": "testuser",
+  "password": "$2a$10$tYboC4Ix7mqKpXoKjEgDr.jUbLylgt.X5/CENA28lXpR8AUtUfe8i",
+  "email": "khsdfs@gmail.com",
+  "createdAt": {
+    "$date": "2022-12-30T05:13:25.405Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-30T05:15:19.696Z"
+  },
+  "__v": 0
+}]

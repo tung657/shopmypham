@@ -1,0 +1,1051 @@
+[{
+  "_id": {
+    "$oid": "6370fd7322b54dc387fd9504"
+  },
+  "id": 1,
+  "product_name": "Black Foolish Hoodie",
+  "path": "black-foolish-hoodie",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670896978/egzmxkdmddd7hypvveyf.webp",
+  "brand": 1,
+  "origin": "Việt Nam",
+  "material": "Nỉ",
+  "style": "Trẻ Trung",
+  "description": "<p>​<span style=\"color: rgba(0, 0, 0, 0.8);font-size: 14px\">Áo Khoác Cardigan W Xanh Mặt Cười Ulzzang<br>Freesize &lt;60kg<br>Chất liệu nỉ<br>😍😍😍 Shop CAM KẾT 😍😍😍<br>✔ Về sản phẩm: Shop cam kết cả về CHẤT LIỆU cũng như HÌNH DÁNG ( đúng với những gì được nêu bật trong phần mô tả sản phẩm).<br>✔ Về giá cả : Shop nhập với số lượng nhiều và trực tiếp nên chi phí sẽ là RẺ NHẤT nhé.<br>✔ Về dịch vụ: Shop sẽ cố gắng trả lời hết những thắc mắc xoay quanh sản phẩm nhé.<br>✔ Thời gian chuẩn bị hàng: Hàng có sẵn, thời gian chuẩn bị tối ưu nhất.<br><br>🍃🍃🍃Quyền Lợi của KháchHàng 🍃🍃🍃<br>✔ Chính sách bao đổi trả hàng miễn phí khi sản phẩm kém chất lượng và không giống hình, nhầm size, số lượng .<br>✔ Khách hàng cũ : Mua lần thứ 2 trở đi sẽ được nhận mã giảm giá của shop<br>&lt;&lt; ib ngay cho mình nha&gt;&gt; để nhận nào .<br><br>➡ LƯU Ý KHI SỬ DỤNG CÁC SẢN PHẨM CỦA SHOP<br>- Đối với sản phẩm đa dạng về chất liệu, kiểu dáng cách bảo quản sản phẩm tốt nhất là giặt tay với bột (nước) giặt nhẹ để giữ được độ bền của vải, tránh bị phai màu từ các loại quần áo khác.<br>- Đối với những sản phẩm có thể giặt máy, chỉ nên để ở chế độ giặt nhẹ, hoặc mức trung bình và nên phân loại sản phẩm cùng màu và cùng loại vải khi giặt.<br>- Nên phơi sản phẩm ở nơi thoáng mát, tránh ánh nắng trực tiếp dễ bị phai bạc màu, nên làm khô quần áo bằng cách phơi ở những điểm đón gió sẽ giữ được màu vải tốt hơn.<br><br>#unisex #hoodie #strippedshirt #taydai #oversize #plaidpant #linepants  #tennisskirt  #quầnline #longtee #boxpants #kakipants #culottes #jacketkaki  #sweater #gile #ulzzang #aonu #aodaitay #aokhoacdu #aokhoac #aokhoacnam #aokhoacnu #aodu #aonam #aonu #aohoodie #aoni #hoodie #aokhoacni #aokhoaccomu #cardigan #aocardigan</span>​</p>",
+  "variants": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "450,000",
+      "sell_price": "540,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": 499
+        },
+        {
+          "size": "L",
+          "quantity": 198
+        },
+        {
+          "size": "XL",
+          "quantity": "1000"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670898445/knhodwos5kyu2vt13xsl.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670898445/xub4idgtqhhcs0vnxj4j.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670898445/td1zwjfumycnsd00khk8.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670898445/oupc0m3uwjaiddan3cdd.jpg"
+      ],
+      "status": true,
+      "has_size": true
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-13T14:21:39.013Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T01:01:41.171Z"
+  },
+  "__v": 50,
+  "collect": 5,
+  "category": 1,
+  "category_sub": 7
+},
+{
+  "_id": {
+    "$oid": "6378f35c221373fda80f79b0"
+  },
+  "id": 3,
+  "product_name": "Pepper Reflection Hoodie",
+  "path": "pepper-reflection-hoodie",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670897372/orotqb5gcqaug7qspult.webp",
+  "brand": 1,
+  "collect": 5,
+  "origin": "Việt Nam",
+  "material": "Jean",
+  "style": "Đường Phố",
+  "description": "<p>​<strong>HƯỚNG DẪN BẢO QUẢN</strong><br>​<span style=\"color: rgb(119, 119, 119)\">– Hạn chế giặt máy, nên giặt tay</span><br>​<span style=\"color: rgb(119, 119, 119)\">– Lộn trái khi giặt, nên phơi nơi nắng nhẹ, tránh ánh nắng trực tiếp.</span>​</p>",
+  "variants": [
+    {
+      "color": "Gallery",
+      "hex": "#EFEFEF",
+      "invoice_price": "450,000",
+      "sell_price": "540,000",
+      "list_sizes": [
+        {
+          "size": "L",
+          "quantity": "10"
+        },
+        {
+          "size": "M",
+          "quantity": "500"
+        },
+        {
+          "size": "XL",
+          "quantity": "100"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670899769/orolc9itkubwvpqn58ej.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670899769/kejyzstu8xgwpdggujuh.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670899770/kolhvfdcyuspjthsbpf1.jpg"
+      ],
+      "status": true,
+      "has_size": true
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-19T15:16:44.834Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T15:57:19.496Z"
+  },
+  "__v": 7,
+  "category": 1,
+  "category_sub": 7
+},
+{
+  "_id": {
+    "$oid": "637cfe23a36d3c21e1612e74"
+  },
+  "variants": [
+    {
+      "color": "Tundora",
+      "hex": "#4A4244",
+      "invoice_price": "450,000",
+      "sell_price": "540,000",
+      "list_sizes": [
+        {
+          "size": "S",
+          "quantity": 0
+        },
+        {
+          "size": "M",
+          "quantity": "60"
+        },
+        {
+          "size": "XL",
+          "quantity": "55"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670899956/ccfnkssfdre1d2ilgbnv.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670899957/jnzfuldylcnkhz3uyci0.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670899958/rqhhjyc3uwsh7usfz18x.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670899966/d6kbhvd7zpext5dv8mif.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670899960/u6jgagnwk4pyk5hl3kdq.jpg"
+      ],
+      "status": true,
+      "has_size": true
+    }
+  ],
+  "active": true,
+  "id": 4,
+  "product_name": "Grey Destiny Hoodie",
+  "path": "grey-destiny-hoodie",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670897418/ws6yqfitzifxvxa7yxzt.webp",
+  "category_sub": 7,
+  "brand": 1,
+  "origin": "Việt Nam",
+  "material": "Len",
+  "style": "Trẻ Trung",
+  "description": "<p>​<strong>HƯỚNG DẪN BẢO QUẢN</strong><br>​<span style=\"color: rgb(119, 119, 119)\">– Hạn chế giặt máy, nên giặt tay</span><br>​<span style=\"color: rgb(119, 119, 119)\">– Lộn trái khi giặt, nên phơi nơi nắng nhẹ, tránh ánh nắng trực tiếp.</span>​</p>",
+  "createdAt": {
+    "$date": "2022-11-22T16:51:47.620Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T00:50:14.437Z"
+  },
+  "__v": 11,
+  "category": 1
+},
+{
+  "_id": {
+    "$oid": "638c24a82bf2851498ffd0f8"
+  },
+  "variants": [],
+  "active": false,
+  "id": 5,
+  "product_name": "Sdet53434",
+  "path": "sdet53434",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670128808/imbeztdnfsbsl022bjb2.png",
+  "discount": null,
+  "collect": null,
+  "category": 5,
+  "brand": 1,
+  "origin": "Việt Nam",
+  "material": "Jean",
+  "style": "Đường Phố",
+  "description": "<p>sdfasdfa</p>",
+  "createdAt": {
+    "$date": "2022-12-04T04:40:08.727Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-04T06:22:07.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6397e9c08d60e38f6d225b46"
+  },
+  "variants": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "400,000",
+      "sell_price": "480,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": 32
+        },
+        {
+          "size": "L",
+          "quantity": "505"
+        },
+        {
+          "size": "XL",
+          "quantity": "60"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900197/scovlfd8jaecrzdropaz.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900197/lz58ajfj3xkn2359pujk.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900197/kgxz9s5gupkaowhshskf.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900198/ym5128g3tefsd3keapd2.jpg"
+      ],
+      "status": true,
+      "has_size": true
+    }
+  ],
+  "active": true,
+  "id": 6,
+  "product_name": "Hotrod Jacket Racing",
+  "path": "hotrod-jacket-racing",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670900160/z2xvt5pvewaz0gzhtxfu.jpg",
+  "collect": 2,
+  "category": 1,
+  "brand": 1,
+  "origin": "Việt Nam",
+  "material": "Jean",
+  "style": "Đường Phố",
+  "description": "<p>​<strong>HƯỚNG DẪN BẢO QUẢN</strong><br>​<span style=\"color: rgb(119, 119, 119)\">– Hạn chế giặt máy, nên giặt tay</span><br>​<span style=\"color: rgb(119, 119, 119)\">– Lộn trái khi giặt, nên phơi nơi nắng nhẹ, tránh ánh nắng trực tiếp.</span>​<br></p>",
+  "createdAt": {
+    "$date": "2022-12-13T02:56:00.273Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-14T04:00:29.234Z"
+  },
+  "__v": 19,
+  "category_sub": 8
+},
+{
+  "_id": {
+    "$oid": "6397eb3e8d60e38f6d225b71"
+  },
+  "variants": [
+    {
+      "color": "Grey",
+      "hex": "#ACACAC",
+      "invoice_price": "450,000",
+      "sell_price": "540,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": 35
+        },
+        {
+          "size": "L",
+          "quantity": "50"
+        },
+        {
+          "size": "XL",
+          "quantity": "50"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900593/grlbcge0ecwh5lqjdgnx.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900593/ezilt9fnhejaccfmveck.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900593/kzd5fyrd879sj6j82lri.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900593/shsmjzsy000iltx7wrri.jpg"
+      ],
+      "status": true,
+      "has_size": true
+    },
+    {
+      "color": "Mocha",
+      "hex": "#826F65",
+      "invoice_price": "450,000",
+      "sell_price": "550,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "50"
+        },
+        {
+          "size": "L",
+          "quantity": "50"
+        },
+        {
+          "size": "XL",
+          "quantity": "50"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900775/ixhyj0krqzg7f7aosb97.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900775/idclkhwobolexnx8nq7v.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900775/gubjk9sl08e2x1kccact.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900776/tljm8t2p6fuufidhkj4t.jpg"
+      ],
+      "status": true,
+      "has_size": true
+    },
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "450,000",
+      "sell_price": "540,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "60"
+        },
+        {
+          "size": "L",
+          "quantity": "60"
+        },
+        {
+          "size": "XL",
+          "quantity": "60"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900713/icq4kieba8gnkznbirsx.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900713/lgee34eco9k2wg35rdkl.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900713/eu9jghxd1e7vcc7wdvjr.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900713/gzk7rzfq7f8j3h5apasu.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670900714/dg1yc9yaqcxhhras2wvb.webp"
+      ],
+      "status": true,
+      "has_size": true
+    }
+  ],
+  "active": true,
+  "id": 7,
+  "product_name": "Eminence Hoodie Zip",
+  "path": "eminence-hoodie-zip",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670900542/bblqx3cxdonbqxcd480d.jpg",
+  "category": 1,
+  "category_sub": 7,
+  "brand": 1,
+  "origin": "Việt Nam",
+  "material": "Jean",
+  "style": "Đường Phố",
+  "description": "<p>​<strong>HƯỚNG DẪN BẢO QUẢN</strong><br>​<span style=\"color: rgb(119, 119, 119)\">– Hạn chế giặt máy, nên giặt tay</span><br>​<span style=\"color: rgb(119, 119, 119)\">– Lộn trái khi giặt, nên phơi nơi nắng nhẹ, tránh ánh nắng trực tiếp.</span>​<br></p>",
+  "createdAt": {
+    "$date": "2022-12-13T03:02:22.773Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T00:47:42.348Z"
+  },
+  "__v": 14
+},
+{
+  "_id": {
+    "$oid": "6397ed9f8d60e38f6d225bdb"
+  },
+  "variants": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "330,000",
+      "sell_price": "396,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "60"
+        },
+        {
+          "size": "L",
+          "quantity": "60"
+        },
+        {
+          "size": "XL",
+          "quantity": "60"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901194/z0jujfdij3yhdcigp2jb.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901194/usjnzxygs5xxzqnpc1jj.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901194/bqoacq8gbutjqe8z8nfd.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901194/i1uqub0ueokqqm1r61jl.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901194/p496kiefddjjufvqaszz.jpg"
+      ],
+      "status": true,
+      "has_size": true
+    },
+    {
+      "color": "Grey",
+      "hex": "#D27D46",
+      "invoice_price": "250,000",
+      "sell_price": "300,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "40"
+        },
+        {
+          "size": "L",
+          "quantity": "40"
+        },
+        {
+          "size": "XL",
+          "quantity": "40"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901234/y2viq5jm20l8qyczotzr.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901235/kopx24oltlwriscx6edw.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901235/wyonf1543oti0cpi82to.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901235/fmqykjzbh1jxoflkjasu.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901235/q7yseic1htgdfg75xoer.jpg"
+      ],
+      "status": true,
+      "has_size": true
+    }
+  ],
+  "active": true,
+  "id": 8,
+  "product_name": "Jacket Lazer",
+  "path": "jacket-lazer",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670901151/zqx3i2u6jwmfu2xdnkmt.jpg",
+  "collect": 1,
+  "category": 1,
+  "category_sub": 8,
+  "brand": 1,
+  "origin": "Việt Nam",
+  "material": "Jean",
+  "style": "Đường Phố",
+  "description": "<p>​<strong>HƯỚNG DẪN BẢO QUẢN</strong><br>​<span style=\"color: rgb(119, 119, 119)\">– Hạn chế giặt máy, nên giặt tay</span><br>​<span style=\"color: rgb(119, 119, 119)\">– Lộn trái khi giặt, nên phơi nơi nắng nhẹ, tránh ánh nắng trực tiếp.</span>​<br></p>",
+  "createdAt": {
+    "$date": "2022-12-13T03:12:31.231Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T15:58:22.175Z"
+  },
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "6397eefe8d60e38f6d225c20"
+  },
+  "variants": [
+    {
+      "color": "Mountain Meadow",
+      "hex": "#1AB385",
+      "invoice_price": "200,000",
+      "sell_price": "240,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "49"
+        },
+        {
+          "size": "L",
+          "quantity": "49"
+        },
+        {
+          "size": "XL",
+          "quantity": "49"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901534/boalhl2egmfikn7ndaf8.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901534/dformifuuqam2t2lvlin.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901535/lpgdnqv8grbgye9anibk.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901536/lj3ecrnrai4qodhq4g2i.jpg"
+      ],
+      "status": true,
+      "has_size": true
+    },
+    {
+      "color": "Grey",
+      "hex": "#5D4C51",
+      "invoice_price": "190,000",
+      "sell_price": "228,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": 476
+        },
+        {
+          "size": "L",
+          "quantity": "500"
+        },
+        {
+          "size": "XL",
+          "quantity": "500"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901575/dfrnoll1k4ejmogs5mse.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901575/zgsgxwlycgfpygmbazf6.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901576/kd7thbeu6pk66j9hmcjw.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901576/vzsznmiczejhrdtcvbyc.jpg"
+      ],
+      "status": true,
+      "has_size": true
+    },
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "150,000",
+      "sell_price": "180,000",
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "60"
+        },
+        {
+          "size": "XL",
+          "quantity": 57
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901607/fo6lwa6vgovh5mjqon5w.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901607/eulv6q2lmpx6ug8x1opf.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901608/kteircn0kcqmhjjgvpjd.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670901608/xptzynfzxmxsp6lrawfc.jpg"
+      ],
+      "status": true,
+      "has_size": true
+    }
+  ],
+  "active": true,
+  "id": 9,
+  "product_name": "Casual Short",
+  "path": "casual-short",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670901502/up8aodgzatlywejiohpq.jpg",
+  "category": 1,
+  "category_sub": 6,
+  "brand": 1,
+  "origin": "Việt Nam",
+  "material": "Jean",
+  "style": "Đường Phố",
+  "description": "<p>​<strong>HƯỚNG DẪN BẢO QUẢN</strong><br>​<span style=\"color: rgb(119, 119, 119)\">– Hạn chế giặt máy, nên giặt tay</span><br>​<span style=\"color: rgb(119, 119, 119)\">– Lộn trái khi giặt, nên phơi nơi nắng nhẹ, tránh ánh nắng trực tiếp.</span>​</p>",
+  "createdAt": {
+    "$date": "2022-12-13T03:18:22.646Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T01:36:19.170Z"
+  },
+  "__v": 14,
+  "discount": 2
+},
+{
+  "_id": {
+    "$oid": "6397f5c88d60e38f6d225d2c"
+  },
+  "variants": [
+    {
+      "color": "Navy",
+      "hex": "#000080",
+      "invoice_price": "180,000",
+      "sell_price": "216,000",
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670903292/filk7regdoupmlo0syjl.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670903292/lyevmcsn6q9a1rh1wv1u.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670903292/hp4dlyudbsrtl4wab6ml.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670903292/bjduagokq7ewf8hzrvh1.jpg"
+      ],
+      "status": true,
+      "has_size": false,
+      "quantityNoSize": "343"
+    }
+  ],
+  "active": true,
+  "id": 10,
+  "product_name": "Backpack 83",
+  "path": "backpack-83",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670903240/yirgaibuaplqtvynbixe.jpg",
+  "collect": 6,
+  "category": 6,
+  "brand": 1,
+  "origin": "Việt Nam",
+  "material": "Jean",
+  "style": "Đường Phố",
+  "description": "<p>​<strong>HƯỚNG DẪN BẢO QUẢN</strong><br>​<span style=\"color: rgb(119, 119, 119)\">– Hạn chế giặt máy, nên giặt tay</span><br>​<span style=\"color: rgb(119, 119, 119)\">– Lộn trái khi giặt, nên phơi nơi nắng nhẹ, tránh ánh nắng trực tiếp.</span>​<br></p>",
+  "createdAt": {
+    "$date": "2022-12-13T03:47:20.581Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T16:13:10.294Z"
+  },
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "6397fa0d8d60e38f6d225dda"
+  },
+  "variants": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "100,000",
+      "sell_price": "120,000",
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670904376/gwqkqbmllu0y8oisoboe.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670904375/bpjw31fbifhctasawzj0.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670904376/upctqqiuvvip3vtpzddb.jpg",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1670904377/px8ja0pgpofngeh64zhz.jpg"
+      ],
+      "status": true,
+      "has_size": false,
+      "quantityNoSize": "654"
+    }
+  ],
+  "active": true,
+  "id": 11,
+  "product_name": "Solid Camp Hat",
+  "path": "solid-camp-hat",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670904333/eoh1snaah8o8icrhxj2y.jpg",
+  "category": 8,
+  "brand": 1,
+  "origin": "Việt Nam",
+  "material": "Jean",
+  "style": "Đường Phố",
+  "description": "<p>sdfsdf</p>",
+  "createdAt": {
+    "$date": "2022-12-13T04:05:33.371Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-14T03:38:53.225Z"
+  },
+  "__v": 9,
+  "discount": 1,
+  "category_sub": 13
+},
+{
+  "_id": {
+    "$oid": "63ae700a81d8b6a86089a37a"
+  },
+  "variants": [],
+  "active": false,
+  "id": 12,
+  "product_name": "Sdfsdfsdfsdf",
+  "path": "sdfsdfsdfsdf",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1672376329/uwxwzyngu5iuntuvegfg.jpg",
+  "discount": 1,
+  "collect": 5,
+  "category": 3,
+  "brand": 1,
+  "origin": "Việt Nam",
+  "material": "Jean",
+  "style": "Đường Phố",
+  "description": "<p>sdfsdf</p>",
+  "createdAt": {
+    "$date": "2022-12-30T04:58:50.814Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-30T05:00:32.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640599e22d1ec482eb157ccf"
+  },
+  "variants": [],
+  "active": false,
+  "id": 13,
+  "product_name": "Mixi Gaming",
+  "path": "mixi-gaming",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1678088672/ulbru39cpapdtaeuarox.jpg",
+  "discount": 0,
+  "collect": 0,
+  "category": 1,
+  "category_sub": 1,
+  "brand": 1,
+  "origin": "Việt Nam",
+  "material": "Jean",
+  "style": "Đường Phố",
+  "description": "<p>khong co gi</p>",
+  "createdAt": {
+    "$date": "2023-03-06T07:44:34.481Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-08T07:42:29.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64059a3d3d6bd4a67b478bf2"
+  },
+  "variants": [
+    {
+      "color": "Thunderbird",
+      "hex": "#C02B18",
+      "invoice_price": "500,000",
+      "sell_price": "600,000",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "S",
+          "quantity": "3"
+        },
+        {
+          "size": "M",
+          "quantity": "6"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1678088812/oyohqpuliuwl61gdd8nm.jpg"
+      ],
+      "status": true
+    },
+    {
+      "color": "Cerulean Blue",
+      "hex": "#2A52BE",
+      "invoice_price": "400,000",
+      "sell_price": "480,000",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "2XL",
+          "quantity": "3"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1678088926/zgiucthy9336lnahl3pv.jpg"
+      ],
+      "status": true
+    }
+  ],
+  "active": false,
+  "id": 14,
+  "product_name": "Mixi Gamig",
+  "path": "mixi-gamig",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1678088764/db5942rxyipgewmnh8we.jpg",
+  "discount": 1,
+  "collect": 1,
+  "category": 1,
+  "category_sub": 1,
+  "brand": 1,
+  "origin": "Việt Nam",
+  "material": "Jean",
+  "style": "Đường Phố",
+  "description": "<p>ádadad</p>",
+  "createdAt": {
+    "$date": "2023-03-06T07:46:05.862Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-06T18:44:34.981Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "647ff2b968e794ac027976cc"
+  },
+  "variants": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "380,000",
+      "sell_price": "400,000",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "L",
+          "quantity": "444"
+        },
+        {
+          "size": "XL",
+          "quantity": "500"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686106900/yq57ifazvlkp264ys6se.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686106900/m1mllftw64ecp6fjzfhr.webp"
+      ],
+      "status": true
+    }
+  ],
+  "active": true,
+  "id": 15,
+  "product_name": "Black Culture Sign Polo",
+  "path": "black-culture-sign-polo",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1686106809/f1u2gs8gzzyu4lad4zln.webp",
+  "discount": 1,
+  "category": 1,
+  "category_sub": 12,
+  "brand": 2,
+  "origin": "Việt Nam",
+  "material": "Cotton 2 Chiều, 250gsm",
+  "style": "Đường Phố",
+  "description": "<p>– Chất liệu: Cotton 2 chiều, 250gsm</p><p>– Họa tiết: In lụa thấm bền bỉ</p><p>– Kiểu dáng: Form Regular phù hợp cho cả nam và nữ</p><p>&nbsp;</p><p>HƯỚNG DẪN BẢO QUẢN</p><p>– Hạn chế giặt máy, nên giặt tay</p><p>– Lộn trái khi giặt, nên phơi nơi nắng nhẹ, tránh ánh nắng trực tiếp.</p>",
+  "createdAt": {
+    "$date": "2023-06-07T03:00:09.044Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T03:01:52.266Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "647ff37768e794ac027976fe"
+  },
+  "variants": [
+    {
+      "color": "White",
+      "hex": "#FFFFFF",
+      "invoice_price": "266,000",
+      "sell_price": "319,200",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "300"
+        },
+        {
+          "size": "L",
+          "quantity": "300"
+        },
+        {
+          "size": "XL",
+          "quantity": "300"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107051/yljcs1tvyejq7rfxd6ko.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107051/yrl2dov7w43p5dhaycj8.webp"
+      ],
+      "status": true
+    }
+  ],
+  "active": true,
+  "id": 16,
+  "product_name": "White Movement Polo",
+  "path": "white-movement-polo",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1686106999/izhcxbjsxqga4fbdq3lu.webp",
+  "discount": 1,
+  "collect": 1,
+  "category": 1,
+  "category_sub": 12,
+  "brand": 2,
+  "origin": "Việt Nam",
+  "material": "Spandex Crocodile",
+  "style": "Đường Phố",
+  "description": "<p>– Chất liệu: Spandex Crocodile</p><p>– Khả năng thấm hút tốt, độ đàn hồi cao, vải có tỉ trọng khá nhẹ</p><p>– Họa tiết: In Pet + Thêu</p><p>– Kiểu dáng: Form Regular phù hợp cho cả nam và nữ</p><p>&nbsp;</p><p>HƯỚNG DẪN BẢO QUẢN</p><p>– Hạn chế giặt máy, nên giặt tay</p><p>– Lộn trái khi giặt, nên phơi nơi nắng nhẹ, tránh ánh nắng trực tiếp.</p>",
+  "createdAt": {
+    "$date": "2023-06-07T03:03:19.465Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T03:04:16.039Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "647ff3e768e794ac02797720"
+  },
+  "variants": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "350,000",
+      "sell_price": "420,000",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "444"
+        },
+        {
+          "size": "L",
+          "quantity": "444"
+        },
+        {
+          "size": "XL",
+          "quantity": "444"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107153/s2vv5sqhg68suqa12sq8.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107153/fimojemretx76xsgfs85.webp"
+      ],
+      "status": true
+    }
+  ],
+  "active": true,
+  "id": 17,
+  "product_name": "Black Sly Studio Polo",
+  "path": "black-sly-studio-polo",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1686107111/elujo2bqr0evnddfh7vi.webp",
+  "discount": 1,
+  "collect": 1,
+  "category": 1,
+  "category_sub": 12,
+  "brand": 3,
+  "origin": "Việt Nam",
+  "material": "100% Cotton",
+  "style": "Đường Phố",
+  "description": "<p>– Chất liệu: Chất liệu: 100% Cotton Chính Phẩm 2 chiều, định lượng 250gsm</p><p>– Họa tiết: In lụa</p><p>– Kiểu dáng: Form Regular Fit hiện đại phù hợp cho cả Nam lẫn Nữ.</p><p>&nbsp;</p><p>HƯỚNG DẪN BẢO QUẢN</p><p>– Hạn chế giặt máy, nên giặt tay</p><p>– Lộn trái khi giặt, nên phơi nơi nắng nhẹ, tránh ánh nắng trực tiếp.</p>",
+  "createdAt": {
+    "$date": "2023-06-07T03:05:11.069Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T03:06:00.954Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "647ff4fa68e794ac0279777e"
+  },
+  "variants": [
+    {
+      "color": "Black",
+      "hex": "#000000",
+      "invoice_price": "150,000",
+      "sell_price": "180,000",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "XS",
+          "quantity": "600"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107429/kaqftqsjcztp5d9ijdxo.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107429/xzxmlv6zh2zbjkoxv12q.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107429/ayo87dqth6feqvovtsjv.webp"
+      ],
+      "status": true
+    }
+  ],
+  "active": true,
+  "id": 18,
+  "product_name": "Card Holder",
+  "path": "card-holder",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1686107386/sa5mastxxfq6qplesfck.webp",
+  "category": 8,
+  "category_sub": 14,
+  "brand": 2,
+  "origin": "Việt Nam",
+  "material": "Da Saffiano",
+  "style": "Đường Phố",
+  "description": "<p>Chất Liệu: Da Saffiano cao cấp</p><p>Chi tiết: In UV Printing</p><p>Ví da được sơn mài góc cạnh tăng tính thẩm mỹ</p><p>Kích thước: 20x7cm</p>",
+  "createdAt": {
+    "$date": "2023-06-07T03:09:46.467Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T03:10:37.355Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "647ff5f068e794ac027977bc"
+  },
+  "variants": [
+    {
+      "color": "Cerulean",
+      "hex": "#02A4D3",
+      "invoice_price": "550,000",
+      "sell_price": "660,000",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": 408
+        },
+        {
+          "size": "L",
+          "quantity": "411"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107672/d5rifct3hm8gbmlf4glm.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107672/qk2j5xs0dezkgmjvdvzu.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686107672/utq8z26fpzvsawvwbnzm.webp"
+      ],
+      "status": true
+    }
+  ],
+  "active": true,
+  "id": 19,
+  "product_name": "Straight Leg Jeans",
+  "path": "straight-leg-jeans",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1686107632/eeoa1ghslzs5xykyvr6j.webp",
+  "collect": 2,
+  "category": 1,
+  "category_sub": 6,
+  "brand": 3,
+  "origin": "Việt Nam",
+  "material": "Cotton100 13oz",
+  "style": "Đường Phố",
+  "description": "<p>Chất liệu: Cotton100 13oz</p><p>Họa tiết: Wash + in lụa</p><p>Kiểu dáng: Form regular hiện đại phù hợp cho cả Nam lẫn Nữ</p><p><strong>HƯỚNG DẪN BẢO QUẢN</strong></p><p>– Hạn chế giặt máy, nên giặt tay</p><p>– Lộn trái khi giặt, nên phơi nơi nắng nhẹ, tránh ánh nắng trực tiếp.</p>",
+  "createdAt": {
+    "$date": "2023-06-07T03:13:52.575Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T01:36:19.159Z"
+  },
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "647ff66868e794ac027977de"
+  },
+  "variants": [
+    {
+      "color": "Curious Blue",
+      "hex": "#2596D1",
+      "invoice_price": "550,000",
+      "sell_price": "660,000",
+      "has_size": true,
+      "list_sizes": [
+        {
+          "size": "M",
+          "quantity": "55"
+        },
+        {
+          "size": "L",
+          "quantity": "55"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686108139/mdqw98az9fyd07rpmyxf.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686108141/da38pllwqkasjrew1xzg.webp",
+        "https://res.cloudinary.com/de2haobkl/image/upload/v1686108140/mhswjmokrijebh3fnczw.webp"
+      ],
+      "status": false
+    }
+  ],
+  "active": true,
+  "id": 20,
+  "product_name": "Black Kaki Parachute Pants",
+  "path": "black-kaki-parachute-pants",
+  "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1686107753/ir1svbghvr8ye3gzniyt.webp",
+  "collect": 1,
+  "category": 1,
+  "category_sub": 6,
+  "origin": "Việt Nam",
+  "material": "Kaki",
+  "style": "Đường Phố",
+  "description": "<p>– Chất liệu: Kaki</p><p>– Họa tiết: Thêu</p><p>– Kiểu dáng: Form Regular hiện đại phù hợp cho cả Nam lẫn Nữ.</p><p>&nbsp;</p><p>HƯỚNG DẪN BẢO QUẢN</p><p>– Hạn chế giặt máy, nên giặt tay</p><p>– Lộn trái khi giặt, nên phơi nơi nắng nhẹ, tránh ánh nắng trực tiếp.</p>",
+  "createdAt": {
+    "$date": "2023-06-07T03:15:52.924Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T03:22:21.201Z"
+  },
+  "__v": 1
+}]

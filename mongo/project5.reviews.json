@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "63a353b37887fc94560c32e1"
+  },
+  "active": true,
+  "id": 1,
+  "customer": 1,
+  "product": 1,
+  "rating": 4,
+  "classify": "Đen, Xl",
+  "comment": "Rất đẹp, đúng với mô tả",
+  "createdAt": {
+    "$date": "2022-12-21T18:42:59.348Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-21T18:42:59.348Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,211 @@
+[{
+  "_id": {
+    "$oid": "637e5229fcd78c676f1b0904"
+  },
+  "id": 1,
+  "user": {
+    "$oid": "637e5229fcd78c676f1b0901"
+  },
+  "path": "minhdra1",
+  "first_name": "Le",
+  "last_name": "Minh",
+  "avatar": "https://res.cloudinary.com/de2haobkl/image/upload/v1670895710/vv5prvdzd9eurwsiw0y7.jpg",
+  "phone": "0932834238",
+  "carts": [
+    {
+      "product_id": 15,
+      "product_name": "Black Culture Sign Polo",
+      "color": "Black",
+      "hex": "#000000",
+      "size": "L",
+      "quantity": 1,
+      "product_price": "264000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1686106900/yq57ifazvlkp264ys6se.webp",
+      "checked": true,
+      "path": "black-culture-sign-polo"
+    }
+  ],
+  "delivery_addresses": [
+    {
+      "full_name": "Le Minh",
+      "phone": "0923848232",
+      "province": {
+        "name": "Bình Dương",
+        "slug": "binh-duong",
+        "type": "tinh",
+        "name_with_type": "Tỉnh Bình Dương",
+        "code": "74"
+      },
+      "district": {
+        "name": "Dầu Tiếng",
+        "type": "huyen",
+        "slug": "dau-tieng",
+        "name_with_type": "Huyện Dầu Tiếng",
+        "path": "Dầu Tiếng, Bình Dương",
+        "path_with_type": "Huyện Dầu Tiếng, Tỉnh Bình Dương",
+        "code": "720",
+        "parent_code": "74"
+      },
+      "commune": {
+        "name": "Minh Thạnh",
+        "type": "xa",
+        "slug": "minh-thanh",
+        "name_with_type": "Xã Minh Thạnh",
+        "path": "Minh Thạnh, Dầu Tiếng, Bình Dương",
+        "path_with_type": "Xã Minh Thạnh, Huyện Dầu Tiếng, Tỉnh Bình Dương",
+        "code": "25783",
+        "parent_code": "720"
+      },
+      "address_detail": "Doi 1",
+      "isAddressDefault": false,
+      "id": "9b1d610b-0ed8-490c-a2fc-733ec28e75f2"
+    },
+    {
+      "full_name": "Minh",
+      "phone": "0293482388",
+      "province": {
+        "name": "Cao Bằng",
+        "slug": "cao-bang",
+        "type": "tinh",
+        "name_with_type": "Tỉnh Cao Bằng",
+        "code": "04"
+      },
+      "district": {
+        "name": "Hạ Lang",
+        "type": "huyen",
+        "slug": "ha-lang",
+        "name_with_type": "Huyện Hạ Lang",
+        "path": "Hạ Lang, Cao Bằng",
+        "path_with_type": "Huyện Hạ Lang, Tỉnh Cao Bằng",
+        "code": "048",
+        "parent_code": "04"
+      },
+      "commune": {
+        "name": "Lý Quốc",
+        "type": "xa",
+        "slug": "ly-quoc",
+        "name_with_type": "Xã Lý Quốc",
+        "path": "Lý Quốc, Hạ Lang, Cao Bằng",
+        "path_with_type": "Xã Lý Quốc, Huyện Hạ Lang, Tỉnh Cao Bằng",
+        "code": "01537",
+        "parent_code": "048"
+      },
+      "address_detail": "Ly do ",
+      "isAddressDefault": true,
+      "id": "ddacd202-f196-44de-a63f-89fc06f400f7"
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-23T17:02:33.601Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-14T04:37:23.148Z"
+  },
+  "__v": 261,
+  "gender": 2,
+  "birth": null
+},
+{
+  "_id": {
+    "$oid": "639d88c441da4cdd3350c123"
+  },
+  "id": 3,
+  "user": {
+    "$oid": "639d88c441da4cdd3350c120"
+  },
+  "path": "minhdra5",
+  "first_name": "",
+  "last_name": "",
+  "gender": 2,
+  "avatar": "https://res.cloudinary.com/de2haobkl/image/upload/v1669357208/avatar_zhsccj.jpg",
+  "phone": "",
+  "carts": [],
+  "delivery_addresses": [],
+  "active": false,
+  "createdAt": {
+    "$date": "2022-12-17T09:15:48.602Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-30T05:12:59.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63a1cd4c508748c95cde0b49"
+  },
+  "id": 4,
+  "user": {
+    "$oid": "63a1cd4b508748c95cde0b46"
+  },
+  "path": "leminh00",
+  "first_name": "",
+  "last_name": "",
+  "gender": 2,
+  "avatar": "https://res.cloudinary.com/de2haobkl/image/upload/v1669357208/avatar_zhsccj.jpg",
+  "phone": "",
+  "carts": [],
+  "delivery_addresses": [],
+  "active": false,
+  "createdAt": {
+    "$date": "2022-12-20T14:57:16.039Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T01:48:49.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63a2ced1b4effcb7e97c3efb"
+  },
+  "id": 5,
+  "user": {
+    "$oid": "63a2ced1b4effcb7e97c3ef8"
+  },
+  "path": "leminh000",
+  "first_name": "",
+  "last_name": "",
+  "gender": 2,
+  "avatar": "https://res.cloudinary.com/de2haobkl/image/upload/v1669357208/avatar_zhsccj.jpg",
+  "phone": "",
+  "carts": [],
+  "delivery_addresses": [],
+  "active": false,
+  "createdAt": {
+    "$date": "2022-12-21T09:16:01.405Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T01:48:46.967Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63ae737581d8b6a86089a421"
+  },
+  "id": 6,
+  "user": {
+    "$oid": "63ae737581d8b6a86089a41e"
+  },
+  "path": "testuser",
+  "first_name": "Sdfsdf",
+  "last_name": "Sdf",
+  "gender": 2,
+  "avatar": "https://res.cloudinary.com/de2haobkl/image/upload/v1669357208/avatar_zhsccj.jpg",
+  "phone": "0293423483",
+  "carts": [],
+  "delivery_addresses": [],
+  "active": false,
+  "createdAt": {
+    "$date": "2022-12-30T05:13:25.529Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-30T05:15:19.552Z"
+  },
+  "__v": 0,
+  "birth": {
+    "$date": "2000-01-01T00:00:00.000Z"
+  }
+}]

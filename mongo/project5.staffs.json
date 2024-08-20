@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6368acc50aace331faf6a160"
+  },
+  "id": 1,
+  "user": {
+    "$oid": "6368acc50aace331faf6a15d"
+  },
+  "email": "minhdra011100@gmail.com",
+  "avatar": "https://cdn2.iconfinder.com/data/icons/super-hero/154/spider-man-spiderman-comics-hero-avatar-512.png",
+  "phone": "0964247841",
+  "first_name": "Le",
+  "last_name": "Minh",
+  "active": true,
+  "createdAt": {
+    "$date": "2022-11-07T06:59:17.502Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-04T05:00:14.221Z"
+  },
+  "__v": 0,
+  "birth": {
+    "$date": "2000-11-01T00:00:00.000Z"
+  }
+}]

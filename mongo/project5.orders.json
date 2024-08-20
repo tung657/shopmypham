@@ -1,0 +1,1046 @@
+[{
+  "_id": {
+    "$oid": "63858805d1038d87a6af748b"
+  },
+  "paid": true,
+  "details": [
+    {
+      "product_id": 1,
+      "product_name": "Balo Nike",
+      "color": "Malachite",
+      "hex": "#0BDA51",
+      "size": "XL",
+      "quantity": 3,
+      "product_price": "84000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1668870714/t6iw2rt4fxjdz3gyv4nf.png"
+    },
+    {
+      "product_id": 1,
+      "product_name": "Balo Nike",
+      "color": "Persian Blue",
+      "hex": "#1C39BB",
+      "size": "XS",
+      "quantity": 6,
+      "product_price": "600000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1668870714/t6iw2rt4fxjdz3gyv4nf.png"
+    }
+  ],
+  "delivery_status": 0,
+  "active": false,
+  "id": {
+    "$numberLong": "20221129111813"
+  },
+  "customer": {
+    "$oid": "637e5229fcd78c676f1b0904"
+  },
+  "payment_type": "vnpay",
+  "delivery_address": {
+    "full_name": "Le Minh",
+    "phone": "0923848232",
+    "province": {
+      "name": "Bình Dương",
+      "slug": "binh-duong",
+      "type": "tinh",
+      "name_with_type": "Tỉnh Bình Dương",
+      "code": "74"
+    },
+    "district": {
+      "name": "Dầu Tiếng",
+      "type": "huyen",
+      "slug": "dau-tieng",
+      "name_with_type": "Huyện Dầu Tiếng",
+      "path": "Dầu Tiếng, Bình Dương",
+      "path_with_type": "Huyện Dầu Tiếng, Tỉnh Bình Dương",
+      "code": "720",
+      "parent_code": "74"
+    },
+    "commune": {
+      "name": "Minh Thạnh",
+      "type": "xa",
+      "slug": "minh-thanh",
+      "name_with_type": "Xã Minh Thạnh",
+      "path": "Minh Thạnh, Dầu Tiếng, Bình Dương",
+      "path_with_type": "Xã Minh Thạnh, Huyện Dầu Tiếng, Tỉnh Bình Dương",
+      "code": "25783",
+      "parent_code": "720"
+    },
+    "address_detail": "Doi 1",
+    "isAddressDefault": true,
+    "id": "9b1d610b-0ed8-490c-a2fc-733ec28e75f2"
+  },
+  "note": "",
+  "total": "3852000",
+  "createdAt": {
+    "$date": "2022-11-29T04:18:13.503Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-29T18:15:08.451Z"
+  },
+  "__v": 0,
+  "card_info": "MINHDRA1 THANH TOAN HOA DON 20221129111813, NGAY: 29-18-2022 11:11",
+  "card_name": "NCB",
+  "card_type": "ATM"
+},
+{
+  "_id": {
+    "$oid": "638780e13fce37dacd95d0ba"
+  },
+  "paid": false,
+  "details": [
+    {
+      "product_id": 1,
+      "product_name": "Balo Nike",
+      "color": "Malachite",
+      "hex": "#0BDA51",
+      "size": "XL",
+      "quantity": 3,
+      "product_price": "84000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1668870714/t6iw2rt4fxjdz3gyv4nf.png"
+    }
+  ],
+  "delivery_status": 5,
+  "active": false,
+  "id": {
+    "$numberLong": "20221130231217"
+  },
+  "customer": {
+    "$oid": "637e5229fcd78c676f1b0904"
+  },
+  "payment_type": "Thanh toán khi nhận hàng",
+  "delivery_address": {
+    "full_name": "Le Loc",
+    "phone": "0293482388",
+    "province": {
+      "name": "Hà Giang",
+      "slug": "ha-giang",
+      "type": "tinh",
+      "name_with_type": "Tỉnh Hà Giang",
+      "code": "02"
+    },
+    "district": {
+      "name": "Mèo Vạc",
+      "type": "huyen",
+      "slug": "meo-vac",
+      "name_with_type": "Huyện Mèo Vạc",
+      "path": "Mèo Vạc, Hà Giang",
+      "path_with_type": "Huyện Mèo Vạc, Tỉnh Hà Giang",
+      "code": "027",
+      "parent_code": "02"
+    },
+    "commune": {
+      "name": "Pải Lủng",
+      "type": "xa",
+      "slug": "pai-lung",
+      "name_with_type": "Xã Pải Lủng",
+      "path": "Pải Lủng, Mèo Vạc, Hà Giang",
+      "path_with_type": "Xã Pải Lủng, Huyện Mèo Vạc, Tỉnh Hà Giang",
+      "code": "00775",
+      "parent_code": "027"
+    },
+    "address_detail": "Ly do ",
+    "isAddressDefault": true,
+    "id": "ddacd202-f196-44de-a63f-89fc06f400f7"
+  },
+  "note": "",
+  "total": "252000",
+  "createdAt": {
+    "$date": "2022-11-30T16:12:17.518Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-31T05:02:16.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "638787183fce37dacd95d0d2"
+  },
+  "paid": true,
+  "details": [
+    {
+      "product_id": 1,
+      "product_name": "Balo Nike",
+      "color": "Malachite",
+      "hex": "#0BDA51",
+      "size": "XL",
+      "quantity": 3,
+      "product_price": "84000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1668870714/t6iw2rt4fxjdz3gyv4nf.png"
+    }
+  ],
+  "delivery_status": 2,
+  "active": true,
+  "id": {
+    "$numberLong": "20221130233848"
+  },
+  "customer": {
+    "$oid": "637e5229fcd78c676f1b0904"
+  },
+  "payment_type": "Thanh toán khi nhận hàng",
+  "delivery_address": {
+    "full_name": "Le Loc",
+    "phone": "0293482388",
+    "province": {
+      "name": "Hà Giang",
+      "slug": "ha-giang",
+      "type": "tinh",
+      "name_with_type": "Tỉnh Hà Giang",
+      "code": "02"
+    },
+    "district": {
+      "name": "Mèo Vạc",
+      "type": "huyen",
+      "slug": "meo-vac",
+      "name_with_type": "Huyện Mèo Vạc",
+      "path": "Mèo Vạc, Hà Giang",
+      "path_with_type": "Huyện Mèo Vạc, Tỉnh Hà Giang",
+      "code": "027",
+      "parent_code": "02"
+    },
+    "commune": {
+      "name": "Pải Lủng",
+      "type": "xa",
+      "slug": "pai-lung",
+      "name_with_type": "Xã Pải Lủng",
+      "path": "Pải Lủng, Mèo Vạc, Hà Giang",
+      "path_with_type": "Xã Pải Lủng, Huyện Mèo Vạc, Tỉnh Hà Giang",
+      "code": "00775",
+      "parent_code": "027"
+    },
+    "address_detail": "Ly do ",
+    "isAddressDefault": true,
+    "id": "ddacd202-f196-44de-a63f-89fc06f400f7"
+  },
+  "note": "",
+  "total": "252000",
+  "createdAt": {
+    "$date": "2022-11-30T16:38:48.111Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T02:36:14.924Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6397f09b8d60e38f6d225c63"
+  },
+  "paid": true,
+  "details": [
+    {
+      "product_id": 9,
+      "product_name": "Casual Short",
+      "color": "Grey",
+      "hex": "#5D4C51",
+      "size": "M",
+      "quantity": 6,
+      "product_price": "228000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670901502/up8aodgzatlywejiohpq.jpg"
+    }
+  ],
+  "delivery_status": 0,
+  "active": true,
+  "id": {
+    "$numberLong": "20221213102515"
+  },
+  "customer": {
+    "$oid": "637e5229fcd78c676f1b0904"
+  },
+  "payment_type": "vnpay",
+  "delivery_address": {
+    "full_name": "Le Loc",
+    "phone": "0293482388",
+    "province": {
+      "name": "Hà Giang",
+      "slug": "ha-giang",
+      "type": "tinh",
+      "name_with_type": "Tỉnh Hà Giang",
+      "code": "02"
+    },
+    "district": {
+      "name": "Mèo Vạc",
+      "type": "huyen",
+      "slug": "meo-vac",
+      "name_with_type": "Huyện Mèo Vạc",
+      "path": "Mèo Vạc, Hà Giang",
+      "path_with_type": "Huyện Mèo Vạc, Tỉnh Hà Giang",
+      "code": "027",
+      "parent_code": "02"
+    },
+    "commune": {
+      "name": "Pải Lủng",
+      "type": "xa",
+      "slug": "pai-lung",
+      "name_with_type": "Xã Pải Lủng",
+      "path": "Pải Lủng, Mèo Vạc, Hà Giang",
+      "path_with_type": "Xã Pải Lủng, Huyện Mèo Vạc, Tỉnh Hà Giang",
+      "code": "00775",
+      "parent_code": "027"
+    },
+    "address_detail": "Ly do ",
+    "isAddressDefault": true,
+    "id": "ddacd202-f196-44de-a63f-89fc06f400f7"
+  },
+  "note": "",
+  "total": "1368000",
+  "createdAt": {
+    "$date": "2022-12-13T03:25:15.556Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T00:53:20.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "639bd936f2fb79488304b086"
+  },
+  "paid": true,
+  "details": [
+    {
+      "product_id": 10,
+      "product_name": "Backpack 83",
+      "color": "Navy",
+      "hex": "#000080",
+      "size": "",
+      "quantity": 1,
+      "product_price": "216000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670903240/yirgaibuaplqtvynbixe.jpg"
+    },
+    {
+      "product_id": 8,
+      "product_name": "Jacket Lazer",
+      "color": "Grey",
+      "hex": "#D27D46",
+      "size": "L",
+      "quantity": 3,
+      "product_price": "300000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670901151/zqx3i2u6jwmfu2xdnkmt.jpg"
+    }
+  ],
+  "delivery_status": 0,
+  "active": false,
+  "id": {
+    "$numberLong": "20221216093428"
+  },
+  "customer": {
+    "$oid": "639bd7f4f2fb79488304b02d"
+  },
+  "payment_type": "vnpay",
+  "delivery_address": {
+    "full_name": "Bảo Minh",
+    "phone": "09488328382",
+    "province": {
+      "name": "Tuyên Quang",
+      "slug": "tuyen-quang",
+      "type": "tinh",
+      "name_with_type": "Tỉnh Tuyên Quang",
+      "code": "08"
+    },
+    "district": {
+      "name": "Chiêm Hóa",
+      "type": "huyen",
+      "slug": "chiem-hoa",
+      "name_with_type": "Huyện Chiêm Hóa",
+      "path": "Chiêm Hóa, Tuyên Quang",
+      "path_with_type": "Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+      "code": "073",
+      "parent_code": "08"
+    },
+    "commune": {
+      "name": "Trung Hà",
+      "type": "xa",
+      "slug": "trung-ha",
+      "name_with_type": "Xã Trung Hà",
+      "path": "Trung Hà, Chiêm Hóa, Tuyên Quang",
+      "path_with_type": "Xã Trung Hà, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+      "code": "02305",
+      "parent_code": "073"
+    },
+    "address_detail": "Phường Tổ Qua",
+    "isAddressDefault": true,
+    "id": "b9554e2b-1120-476f-a5b0-c86342689d58"
+  },
+  "note": "",
+  "total": "1116000",
+  "createdAt": {
+    "$date": "2022-12-16T02:34:30.964Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-29T17:35:07.331Z"
+  },
+  "__v": 0,
+  "card_info": "MINHDRA2 THANH TOAN HOA DON 20221216093428, NGAY: 16-34-2022 09:12",
+  "card_name": "NCB",
+  "card_type": "ATM"
+},
+{
+  "_id": {
+    "$oid": "63a164592204c2aa7303c7d3"
+  },
+  "paid": false,
+  "details": [
+    {
+      "product_id": 4,
+      "product_name": "Grey Destiny Hoodie",
+      "color": "Tundora",
+      "hex": "#4A4244",
+      "size": "S",
+      "quantity": 1,
+      "product_price": "540000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670897418/ws6yqfitzifxvxa7yxzt.webp"
+    },
+    {
+      "product_id": 6,
+      "product_name": "Hotrod Jacket Racing",
+      "color": "Black",
+      "hex": "#000000",
+      "size": "M",
+      "quantity": 1,
+      "product_price": "480000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670900160/z2xvt5pvewaz0gzhtxfu.jpg"
+    }
+  ],
+  "delivery_status": 0,
+  "active": true,
+  "id": {
+    "$numberLong": "20221220142929"
+  },
+  "customer": {
+    "$oid": "637e5229fcd78c676f1b0904"
+  },
+  "payment_type": "vnpay",
+  "delivery_address": {
+    "full_name": "Le Minh",
+    "phone": "0923848232",
+    "province": {
+      "name": "Bình Dương",
+      "slug": "binh-duong",
+      "type": "tinh",
+      "name_with_type": "Tỉnh Bình Dương",
+      "code": "74"
+    },
+    "district": {
+      "name": "Dầu Tiếng",
+      "type": "huyen",
+      "slug": "dau-tieng",
+      "name_with_type": "Huyện Dầu Tiếng",
+      "path": "Dầu Tiếng, Bình Dương",
+      "path_with_type": "Huyện Dầu Tiếng, Tỉnh Bình Dương",
+      "code": "720",
+      "parent_code": "74"
+    },
+    "commune": {
+      "name": "Minh Thạnh",
+      "type": "xa",
+      "slug": "minh-thanh",
+      "name_with_type": "Xã Minh Thạnh",
+      "path": "Minh Thạnh, Dầu Tiếng, Bình Dương",
+      "path_with_type": "Xã Minh Thạnh, Huyện Dầu Tiếng, Tỉnh Bình Dương",
+      "code": "25783",
+      "parent_code": "720"
+    },
+    "address_detail": "Doi 1",
+    "isAddressDefault": true,
+    "id": "9b1d610b-0ed8-490c-a2fc-733ec28e75f2"
+  },
+  "note": "",
+  "total": "1020000",
+  "createdAt": {
+    "$date": "2022-12-20T07:29:29.717Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-30T11:17:53.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63afa55214e66b6a5f692269"
+  },
+  "paid": false,
+  "details": [
+    {
+      "product_id": 6,
+      "product_name": "Hotrod Jacket Racing",
+      "color": "Black",
+      "hex": "#000000",
+      "size": "M",
+      "quantity": 2,
+      "product_price": "480000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670900160/z2xvt5pvewaz0gzhtxfu.jpg",
+      "checked": true
+    },
+    {
+      "product_id": 11,
+      "product_name": "Solid Camp Hat",
+      "color": "Black",
+      "hex": "#000000",
+      "size": "",
+      "quantity": 1,
+      "product_price": "120000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670904333/eoh1snaah8o8icrhxj2y.jpg",
+      "checked": false
+    }
+  ],
+  "delivery_status": 2,
+  "active": true,
+  "id": {
+    "$numberLong": "20221231095826"
+  },
+  "customer": {
+    "$oid": "637e5229fcd78c676f1b0904"
+  },
+  "payment_type": "vnpay",
+  "delivery_address": {
+    "full_name": "Le Minh",
+    "phone": "0923848232",
+    "province": {
+      "name": "Bình Dương",
+      "slug": "binh-duong",
+      "type": "tinh",
+      "name_with_type": "Tỉnh Bình Dương",
+      "code": "74"
+    },
+    "district": {
+      "name": "Dầu Tiếng",
+      "type": "huyen",
+      "slug": "dau-tieng",
+      "name_with_type": "Huyện Dầu Tiếng",
+      "path": "Dầu Tiếng, Bình Dương",
+      "path_with_type": "Huyện Dầu Tiếng, Tỉnh Bình Dương",
+      "code": "720",
+      "parent_code": "74"
+    },
+    "commune": {
+      "name": "Minh Thạnh",
+      "type": "xa",
+      "slug": "minh-thanh",
+      "name_with_type": "Xã Minh Thạnh",
+      "path": "Minh Thạnh, Dầu Tiếng, Bình Dương",
+      "path_with_type": "Xã Minh Thạnh, Huyện Dầu Tiếng, Tỉnh Bình Dương",
+      "code": "25783",
+      "parent_code": "720"
+    },
+    "address_detail": "Doi 1",
+    "isAddressDefault": true,
+    "id": "9b1d610b-0ed8-490c-a2fc-733ec28e75f2"
+  },
+  "note": "",
+  "total": "960000",
+  "createdAt": {
+    "$date": "2022-12-31T02:58:26.804Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-14T04:00:29.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63afac4c1818741f565cee38"
+  },
+  "paid": false,
+  "details": [
+    {
+      "product_id": 11,
+      "product_name": "Solid Camp Hat",
+      "color": "Black",
+      "hex": "#000000",
+      "size": "",
+      "quantity": 1,
+      "product_price": "120000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670904333/eoh1snaah8o8icrhxj2y.jpg",
+      "checked": true
+    }
+  ],
+  "delivery_status": 0,
+  "active": true,
+  "id": {
+    "$numberLong": "20221231102812"
+  },
+  "customer": {
+    "$oid": "637e5229fcd78c676f1b0904"
+  },
+  "payment_type": "Thanh toán khi nhận hàng",
+  "delivery_address": {
+    "full_name": "Le Minh",
+    "phone": "0923848232",
+    "province": {
+      "name": "Bình Dương",
+      "slug": "binh-duong",
+      "type": "tinh",
+      "name_with_type": "Tỉnh Bình Dương",
+      "code": "74"
+    },
+    "district": {
+      "name": "Dầu Tiếng",
+      "type": "huyen",
+      "slug": "dau-tieng",
+      "name_with_type": "Huyện Dầu Tiếng",
+      "path": "Dầu Tiếng, Bình Dương",
+      "path_with_type": "Huyện Dầu Tiếng, Tỉnh Bình Dương",
+      "code": "720",
+      "parent_code": "74"
+    },
+    "commune": {
+      "name": "Minh Thạnh",
+      "type": "xa",
+      "slug": "minh-thanh",
+      "name_with_type": "Xã Minh Thạnh",
+      "path": "Minh Thạnh, Dầu Tiếng, Bình Dương",
+      "path_with_type": "Xã Minh Thạnh, Huyện Dầu Tiếng, Tỉnh Bình Dương",
+      "code": "25783",
+      "parent_code": "720"
+    },
+    "address_detail": "Doi 1",
+    "isAddressDefault": true,
+    "id": "9b1d610b-0ed8-490c-a2fc-733ec28e75f2"
+  },
+  "note": "",
+  "total": "120000",
+  "createdAt": {
+    "$date": "2022-12-31T03:28:12.948Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-14T03:38:53.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63b638c3a827a751f76bd2f3"
+  },
+  "paid": false,
+  "details": [
+    {
+      "product_id": 6,
+      "product_name": "Hotrod Jacket Racing",
+      "color": "Black",
+      "hex": "#000000",
+      "size": "M",
+      "quantity": 1,
+      "product_price": "480000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670900160/z2xvt5pvewaz0gzhtxfu.jpg",
+      "checked": true
+    },
+    {
+      "product_id": 7,
+      "product_name": "Eminence Hoodie Zip",
+      "color": "Grey",
+      "hex": "#ACACAC",
+      "size": "M",
+      "quantity": 3,
+      "product_price": "540000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670900542/bblqx3cxdonbqxcd480d.jpg",
+      "checked": true
+    }
+  ],
+  "delivery_status": 0,
+  "active": true,
+  "id": {
+    "$numberLong": "20230105094106"
+  },
+  "customer": {
+    "$oid": "637e5229fcd78c676f1b0904"
+  },
+  "payment_type": "Thanh toán khi nhận hàng",
+  "delivery_address": {
+    "full_name": "Le Minh",
+    "phone": "0923848232",
+    "province": {
+      "name": "Bình Dương",
+      "slug": "binh-duong",
+      "type": "tinh",
+      "name_with_type": "Tỉnh Bình Dương",
+      "code": "74"
+    },
+    "district": {
+      "name": "Dầu Tiếng",
+      "type": "huyen",
+      "slug": "dau-tieng",
+      "name_with_type": "Huyện Dầu Tiếng",
+      "path": "Dầu Tiếng, Bình Dương",
+      "path_with_type": "Huyện Dầu Tiếng, Tỉnh Bình Dương",
+      "code": "720",
+      "parent_code": "74"
+    },
+    "commune": {
+      "name": "Minh Thạnh",
+      "type": "xa",
+      "slug": "minh-thanh",
+      "name_with_type": "Xã Minh Thạnh",
+      "path": "Minh Thạnh, Dầu Tiếng, Bình Dương",
+      "path_with_type": "Xã Minh Thạnh, Huyện Dầu Tiếng, Tỉnh Bình Dương",
+      "code": "25783",
+      "parent_code": "720"
+    },
+    "address_detail": "Doi 1",
+    "isAddressDefault": true,
+    "id": "9b1d610b-0ed8-490c-a2fc-733ec28e75f2"
+  },
+  "note": "",
+  "total": "2100000",
+  "createdAt": {
+    "$date": "2023-01-05T02:41:07.173Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T00:47:42.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63b638c6a827a751f76bd2f8"
+  },
+  "paid": true,
+  "details": [],
+  "delivery_status": 4,
+  "active": true,
+  "id": {
+    "$numberLong": "20230105094110"
+  },
+  "customer": {
+    "$oid": "637e5229fcd78c676f1b0904"
+  },
+  "payment_type": "Thanh toán khi nhận hàng",
+  "delivery_address": {
+    "full_name": "Le Minh",
+    "phone": "0923848232",
+    "province": {
+      "name": "Bình Dương",
+      "slug": "binh-duong",
+      "type": "tinh",
+      "name_with_type": "Tỉnh Bình Dương",
+      "code": "74"
+    },
+    "district": {
+      "name": "Dầu Tiếng",
+      "type": "huyen",
+      "slug": "dau-tieng",
+      "name_with_type": "Huyện Dầu Tiếng",
+      "path": "Dầu Tiếng, Bình Dương",
+      "path_with_type": "Huyện Dầu Tiếng, Tỉnh Bình Dương",
+      "code": "720",
+      "parent_code": "74"
+    },
+    "commune": {
+      "name": "Minh Thạnh",
+      "type": "xa",
+      "slug": "minh-thanh",
+      "name_with_type": "Xã Minh Thạnh",
+      "path": "Minh Thạnh, Dầu Tiếng, Bình Dương",
+      "path_with_type": "Xã Minh Thạnh, Huyện Dầu Tiếng, Tỉnh Bình Dương",
+      "code": "25783",
+      "parent_code": "720"
+    },
+    "address_detail": "Doi 1",
+    "isAddressDefault": true,
+    "id": "9b1d610b-0ed8-490c-a2fc-733ec28e75f2"
+  },
+  "note": "",
+  "total": "2100000",
+  "createdAt": {
+    "$date": "2023-01-05T02:41:10.725Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T00:48:42.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63b652467ed52ae9725c63f0"
+  },
+  "paid": false,
+  "details": [
+    {
+      "product_id": 4,
+      "product_name": "Grey Destiny Hoodie",
+      "color": "Tundora",
+      "hex": "#4A4244",
+      "size": "S",
+      "quantity": 1,
+      "product_price": "540000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670897418/ws6yqfitzifxvxa7yxzt.webp",
+      "checked": true
+    },
+    {
+      "product_id": 10,
+      "product_name": "Backpack 83",
+      "color": "Navy",
+      "hex": "#000080",
+      "size": "",
+      "quantity": 1,
+      "product_price": "216000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670903240/yirgaibuaplqtvynbixe.jpg",
+      "checked": true
+    },
+    {
+      "product_id": 1,
+      "product_name": "Black Foolish Hoodie",
+      "color": "Black",
+      "hex": "#000000",
+      "size": "L",
+      "quantity": 1,
+      "product_price": "540000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670896978/egzmxkdmddd7hypvveyf.webp",
+      "checked": false
+    }
+  ],
+  "delivery_status": 0,
+  "active": true,
+  "id": {
+    "$numberLong": "20230105112853"
+  },
+  "customer": {
+    "$oid": "637e5229fcd78c676f1b0904"
+  },
+  "payment_type": "vnpay",
+  "delivery_address": {
+    "full_name": "He's Lo",
+    "phone": "0293482388",
+    "province": {
+      "name": "Hà Giang",
+      "slug": "ha-giang",
+      "type": "tinh",
+      "name_with_type": "Tỉnh Hà Giang",
+      "code": "02"
+    },
+    "district": {
+      "name": "Mèo Vạc",
+      "type": "huyen",
+      "slug": "meo-vac",
+      "name_with_type": "Huyện Mèo Vạc",
+      "path": "Mèo Vạc, Hà Giang",
+      "path_with_type": "Huyện Mèo Vạc, Tỉnh Hà Giang",
+      "code": "027",
+      "parent_code": "02"
+    },
+    "commune": {
+      "name": "Pải Lủng",
+      "type": "xa",
+      "slug": "pai-lung",
+      "name_with_type": "Xã Pải Lủng",
+      "path": "Pải Lủng, Mèo Vạc, Hà Giang",
+      "path_with_type": "Xã Pải Lủng, Huyện Mèo Vạc, Tỉnh Hà Giang",
+      "code": "00775",
+      "parent_code": "027"
+    },
+    "address_detail": "Ly do ",
+    "isAddressDefault": true,
+    "id": "ddacd202-f196-44de-a63f-89fc06f400f7"
+  },
+  "note": "",
+  "total": "756000",
+  "createdAt": {
+    "$date": "2023-01-05T04:29:58.253Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T00:50:14.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6481284d2f62cb860dcdf401"
+  },
+  "paid": true,
+  "details": [
+    {
+      "product_id": 9,
+      "product_name": "Casual Short",
+      "color": "Mountain Meadow",
+      "hex": "#1AB385",
+      "size": "M",
+      "quantity": 7,
+      "product_price": "240000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670901502/up8aodgzatlywejiohpq.jpg",
+      "checked": true,
+      "path": "casual-short"
+    },
+    {
+      "product_id": 1,
+      "product_name": "Black Foolish Hoodie",
+      "color": "Black",
+      "hex": "#000000",
+      "size": "M",
+      "quantity": 1,
+      "product_price": "540000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670898445/knhodwos5kyu2vt13xsl.jpg",
+      "checked": true,
+      "path": "black-foolish-hoodie"
+    },
+    {
+      "product_id": 19,
+      "product_name": "Straight Leg Jeans",
+      "color": "Cerulean",
+      "hex": "#02A4D3",
+      "size": "M",
+      "quantity": 1,
+      "product_price": "660000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1686107672/d5rifct3hm8gbmlf4glm.webp",
+      "checked": false,
+      "path": "straight-leg-jeans"
+    },
+    {
+      "product_id": 9,
+      "product_name": "Casual Short",
+      "color": "Black",
+      "hex": "#000000",
+      "size": "XL",
+      "quantity": 1,
+      "product_price": "90000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670901607/fo6lwa6vgovh5mjqon5w.jpg",
+      "path": "casual-short"
+    }
+  ],
+  "delivery_status": 0,
+  "active": true,
+  "id": {
+    "$numberLong": "20230608080002"
+  },
+  "customer": {
+    "$oid": "637e5229fcd78c676f1b0904"
+  },
+  "payment_type": "vnpay",
+  "delivery_address": {
+    "full_name": "Minh",
+    "phone": "0293482388",
+    "province": {
+      "name": "Cao Bằng",
+      "slug": "cao-bang",
+      "type": "tinh",
+      "name_with_type": "Tỉnh Cao Bằng",
+      "code": "04"
+    },
+    "district": {
+      "name": "Hạ Lang",
+      "type": "huyen",
+      "slug": "ha-lang",
+      "name_with_type": "Huyện Hạ Lang",
+      "path": "Hạ Lang, Cao Bằng",
+      "path_with_type": "Huyện Hạ Lang, Tỉnh Cao Bằng",
+      "code": "048",
+      "parent_code": "04"
+    },
+    "commune": {
+      "name": "Thắng Lợi",
+      "type": "xa",
+      "slug": "thang-loi",
+      "name_with_type": "Xã Thắng Lợi",
+      "path": "Thắng Lợi, Hạ Lang, Cao Bằng",
+      "path_with_type": "Xã Thắng Lợi, Huyện Hạ Lang, Tỉnh Cao Bằng",
+      "code": "01540",
+      "parent_code": "048"
+    },
+    "address_detail": "Ly do ",
+    "isAddressDefault": true,
+    "id": "ddacd202-f196-44de-a63f-89fc06f400f7"
+  },
+  "note": "",
+  "total": "2220000",
+  "createdAt": {
+    "$date": "2023-06-08T01:01:01.506Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T01:02:33.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64812ff62f62cb860dcdf4c4"
+  },
+  "paid": false,
+  "details": [
+    {
+      "product_id": 19,
+      "product_name": "Straight Leg Jeans",
+      "color": "Cerulean",
+      "hex": "#02A4D3",
+      "size": "M",
+      "quantity": 1,
+      "product_price": "660000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1686107672/d5rifct3hm8gbmlf4glm.webp",
+      "checked": true,
+      "path": "straight-leg-jeans"
+    },
+    {
+      "product_id": 9,
+      "product_name": "Casual Short",
+      "color": "Black",
+      "hex": "#000000",
+      "size": "XL",
+      "quantity": 1,
+      "product_price": "90000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670901607/fo6lwa6vgovh5mjqon5w.jpg",
+      "path": "casual-short",
+      "checked": true
+    },
+    {
+      "product_id": 9,
+      "product_name": "Casual Short",
+      "color": "Mountain Meadow",
+      "hex": "#1AB385",
+      "size": "M",
+      "quantity": 49,
+      "product_price": "120000",
+      "thumbnail": "https://res.cloudinary.com/de2haobkl/image/upload/v1670901534/boalhl2egmfikn7ndaf8.jpg",
+      "path": "casual-short",
+      "checked": true
+    }
+  ],
+  "delivery_status": 0,
+  "active": true,
+  "id": {
+    "$numberLong": "20230608083205"
+  },
+  "customer": {
+    "$oid": "637e5229fcd78c676f1b0904"
+  },
+  "payment_type": "vnpay",
+  "delivery_address": {
+    "full_name": "Minh",
+    "phone": "0293482388",
+    "province": {
+      "name": "Cao Bằng",
+      "slug": "cao-bang",
+      "type": "tinh",
+      "name_with_type": "Tỉnh Cao Bằng",
+      "code": "04"
+    },
+    "district": {
+      "name": "Hạ Lang",
+      "type": "huyen",
+      "slug": "ha-lang",
+      "name_with_type": "Huyện Hạ Lang",
+      "path": "Hạ Lang, Cao Bằng",
+      "path_with_type": "Huyện Hạ Lang, Tỉnh Cao Bằng",
+      "code": "048",
+      "parent_code": "04"
+    },
+    "commune": {
+      "name": "Thắng Lợi",
+      "type": "xa",
+      "slug": "thang-loi",
+      "name_with_type": "Xã Thắng Lợi",
+      "path": "Thắng Lợi, Hạ Lang, Cao Bằng",
+      "path_with_type": "Xã Thắng Lợi, Huyện Hạ Lang, Tỉnh Cao Bằng",
+      "code": "01540",
+      "parent_code": "048"
+    },
+    "address_detail": "Ly do ",
+    "isAddressDefault": false,
+    "id": "ddacd202-f196-44de-a63f-89fc06f400f7"
+  },
+  "note": "",
+  "total": "6630000",
+  "createdAt": {
+    "$date": "2023-06-08T01:33:42.800Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T01:36:18.942Z"
+  },
+  "__v": 0
+}]
